@@ -41,24 +41,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "68076EFnW1JeZUzdnbOOKNr", "AddScore");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -94,24 +94,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "0fe07DOz8VMcYKlDM2VxHhQ", "AdjusWithHeight");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -124,9 +124,9 @@ window.__require = function e(t, n, o) {
       value: !0
     });
     var a = cc.Enum({
-        TOP: 0,
-        BOTTOM: 1
-      }),
+      TOP: 0,
+      BOTTOM: 1
+    }),
       i = cc._decorator,
       r = i.ccclass,
       s = i.property,
@@ -227,24 +227,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "3db2d9MuTtO8JRQKnPm9kfu", "AudioManager");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -282,24 +282,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "aa0f5e77Z9FXJ3DrgQcqASi", "AutoDestroy");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -338,24 +338,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "fd2c5sUJdNElqycZdmzNC7g", "DataManager");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -438,24 +438,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "c6f04DncqhJIoWmE4UojNVj", "DynamicLoad");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -489,24 +489,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "e94b9uwJsJB94QZmqCRpyTe", "EffectCenter");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -898,24 +898,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "44d58DM3EZDh45gxc2rlMFX", "EffectSprite");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -965,24 +965,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "78235dKIMdFVqcEjSP7q4OM", "FailedUi");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -1101,24 +1101,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "922f3dsGCZCHbXJvwDr0rdF", "GameFunction");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -1217,106 +1217,106 @@ window.__require = function e(t, n, o) {
               n.getComponent(cc.PhysicsCircleCollider).restitution = fruitQTan;
             }
             n.getComponent(cc.PhysicsCircleCollider).apply();
-            cc.tween(n).to(.5, {scale: 1}, {
+            cc.tween(n).to(.5, { scale: 1 }, {
               easing: "backOut"
             }).call(function () {
               t.targetFruit = n
             }).start()
           }, t.prototype.createLevelUpFruit = function (e, t) {
-          var o = cc.instantiate(this.fruitPre);
-          o.parent = this.fruitNode, o.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruit[e], o.children[0].getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruit[e], o.getComponent("fruitData").fruitNumber = e, o.position = t, o.scale = 0, o.getComponent(cc.RigidBody).linearVelocity = cc.v2(0, -100), o.getComponent(cc.PhysicsCircleCollider).radius = o.height / 2, o.getComponent(cc.PhysicsCircleCollider).apply(), cc.tween(o).to(.5, {
-            scale: 1
-          }, {
-            easing: "backOut"
-          }).call(function () {
-            null != o.getComponent(cc.PhysicsCircleCollider) && (o.getComponent(cc.PhysicsCircleCollider).radius = o.height / 2, o.getComponent(cc.RigidBody).type = cc.RigidBodyType.Dynamic, o.getComponent(cc.PhysicsCircleCollider).apply())
-          }).start(), n.Instance.fruitHeigth = n.Instance.findHighestFruit()
-        }, t.prototype.createFruitSui = function (e, t) {
-        }, t.prototype.createFruitL = function (e, t, n) {
-          u.default.Instance.Play(3, !1, .5), u.default.Instance.Play(6, !1, .3);
-          for (var o = 0; o < 10; o++) {
-            var c = r.default.Spawn("juicePre", this.downEffect);
-            c.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruitL[e];
-            var a = 359 * Math.random(),
-              i = 30 * Math.random() + n / 2,
-              l = cc.v2(Math.sin(a * Math.PI / 180) * i, Math.cos(a * Math.PI / 180) * i);
-            c.scale = .5 * Math.random() + n / 100;
-            var p = .5 * Math.random();
-            c.position = t, c.runAction(cc.sequence(cc.spawn(cc.moveBy(p, l), cc.scaleTo(p + .5, .3), cc.rotateBy(p + .5, s.default.RandomInteger(-360, 360))), cc.fadeOut(.1), cc.callFunc(function () {
-              h.active = !1
-            }, this)))
-          }
-          for (var f = 0; f < 20; f++) {
-            var h = r.default.Spawn("juicePre", this.downEffect);
-            h.getComponent(cc.Sprite).spriteFrame = d.default.Instance.guozhiL[e], h.active = !0;
-            a = 359 * Math.random(), i = 30 * Math.random() + n / 2, l = cc.v2(Math.sin(a * Math.PI / 180) * i, Math.cos(a * Math.PI / 180) * i);
-            h.scale = .5 * Math.random() + n / 100;
-            p = .5 * Math.random();
-            h.position = t, h.runAction(cc.sequence(cc.spawn(cc.moveBy(p, l), cc.scaleTo(p + .5, .3)), cc.fadeOut(.1), cc.callFunc(function () {
-              h.active = !1
-            }, this)))
-          }
-          var m = r.default.Spawn("juicePre", this.downEffect);
-          m.getComponent(cc.Sprite).spriteFrame = d.default.Instance.guozhiZ[e], m.position = t, m.scale = 0, m.angle = s.default.RandomInteger(0, 360), m.runAction(cc.sequence(cc.spawn(cc.scaleTo(.2, n / 150), cc.fadeOut(1)), cc.callFunc(function () {
-            m.active = !1
-          })))
-        }, t.prototype.levelUpEffect = function () {
-          for (var e = 0; e < 25; e++) {
-            var t = r.default.Spawn("lightEffect", this.downEffect);
-            t.scale = .3 * Math.random() + .2, t.opacity = 210;
-            var n = 360 * Math.random() * Math.PI / 180,
-              o = 20 * Math.random(),
-              c = 35 + 60 * Math.random(),
-              a = cc.v2(Math.sin(n) * (o + c), Math.cos(n) * (o + c));
-            cc.tween(t).to(.8, {
-              position: a,
-              angle: s.default.getRandomNum(180, 360, !0),
-              opacity: s.default.getRandomNum(.4, .8)
+            var o = cc.instantiate(this.fruitPre);
+            o.parent = this.fruitNode, o.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruit[e], o.children[0].getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruit[e], o.getComponent("fruitData").fruitNumber = e, o.position = t, o.scale = 0, o.getComponent(cc.RigidBody).linearVelocity = cc.v2(0, -100), o.getComponent(cc.PhysicsCircleCollider).radius = o.height / 2, o.getComponent(cc.PhysicsCircleCollider).apply(), cc.tween(o).to(.5, {
+              scale: 1
             }, {
-              easing: "cubicOut"
-            }).then(cc.removeSelf(!0))
-          }
-        }, t.prototype.conboHit = function (e) {
-          var t = this;
-          u.default.Instance.Play(5, !1, .5);
-          var n = r.default.Spawn("addScore", this.bazieffect);
-          n.position = cc.v2(0, -200), n.scale = .2, n.children[0].getComponent(cc.Label).string = e, n.runAction(cc.sequence(cc.spawn(cc.scaleTo(.3, 1), cc.moveBy(.3, 0, 200), cc.rotateBy(.3, 720), cc.callFunc(function () {
-            t.getScore(10 * e, cc.v2(0, -200), .8, .5)
-          })), cc.fadeOut(.5))), this.levelUpEffect()
-        }, t.prototype.getScore = function (e, t, n, o) {
-          var c = r.default.Spawn("score", this.bazieffect);
-          c.position = t, c.scale = .2, c.children[1].getComponent(cc.Label).string = e, c.runAction(cc.sequence(cc.spawn(cc.scaleTo(.3, n), cc.moveBy(.3, 0, 150), cc.rotateBy(.3, 720)), cc.fadeOut(o)))
-        }, t.prototype.ribbonEffect = function (e) {
-          u.default.Instance.Play(3, !1, 1);
-          for (var t = s.default.getRandomNum(80, 100), n = 0; n < t; n++) {
-            var o = r.default.Spawn("star", this.bazieffect);
-            o.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fllows[s.default.getRandomNum(0, 5, !0)], o.position = e;
-            e.x;
-            o.setScale(s.default.getRandomNum(.7, 1));
-            var c = 360 * Math.random() * Math.PI / 180,
-              a = 360 * Math.random(),
-              i = cc.v2(o.x + Math.sin(c) * a, o.y + Math.cos(c) * a + 150);
-            cc.v2(i.x, i.y + 100);
-            o.runAction(cc.sequence(cc.spawn(cc.moveTo(.255, i).easing(cc.easeCubicActionOut()), cc.scaleTo(.255, 1 * Math.random() + .5), cc.moveBy(4.25, cc.v2(0, .8 * -cc.winSize.height - Math.random() * cc.winSize.height)), cc.rotateBy(4.25, (1800 * Math.random() + 1200) * (Math.random() > .5 ? 1 : -1)), cc.sequence(cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0)), cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0)), cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0))), cc.sequence(cc.delayTime(.17 * s.default.getRandomNum(20, 24.5)), cc.fadeOut(.17))), cc.removeSelf(!0)))
-          }
-        }, t.prototype.ShowLandParti = function (e, t) {
-          for (var n = t, o = [cc.v2(e.position.x - 8, e.position.y), cc.v2(e.position.x + 8, e.position.y)], c = 0; c < o.length; c++) {
-            if (o[c].x < e.position.x) var a = -1;
-            else a = 1;
-            for (var i = function () {
-              var t = r.default.Spawn("juicePre", e);
-              t.setSiblingIndex(4), t.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fllows[s.default.getRandomNum(0, 5, !0)], t.stopAllActions(), t.opacity = 255, t.scale = .3;
-              var n = o[c];
-              t.setPosition(n);
-              var i = cc.v2(s.default.getRandomNum(0, 400, !0) * a, -s.default.getRandomNum(300, 500, !0)),
-                u = s.default.getRandomNum(1440, 3600, !0) * a,
-                p = s.default.getRandomNum(450, 600, !0);
-              t.runAction(cc.sequence(cc.spawn(cc.sequence(cc.jumpBy(s.default.RandomInteger(1500, 1700) / p, i, p, 1), cc.spawn(cc.moveBy(50 / p, cc.v2(0, -30)), cc.fadeOut(50 / p))), cc.scaleTo(s.default.RandomInteger(1500, 1700) / p, s.default.getRandomNum(.4, .7, !1)), cc.rotateTo(s.default.RandomInteger(1500, 1700) / p, u / 2)), cc.callFunc(function () {
-                r.default.Despawn("juicePre", t)
-              }, l)))
-            }, l = this, u = 0; u < n; u++) i()
-          }
-        }, t.Instance = null, c([h(cc.Node)], t.prototype, "bgLayer", void 0), c([h(cc.Node)], t.prototype, "bgCamera", void 0), c([h(cc.Node)], t.prototype, "mainCamera", void 0), c([h(cc.Node)], t.prototype, "fruitNode", void 0), c([h(cc.Node)], t.prototype, "lineNode", void 0), c([h(cc.Node)], t.prototype, "bazieffect", void 0), c([h(cc.Node)], t.prototype, "downEffect", void 0), c([h(cc.Prefab)], t.prototype, "fruitPre", void 0), t = n = c([f], t)
+              easing: "backOut"
+            }).call(function () {
+              null != o.getComponent(cc.PhysicsCircleCollider) && (o.getComponent(cc.PhysicsCircleCollider).radius = o.height / 2, o.getComponent(cc.RigidBody).type = cc.RigidBodyType.Dynamic, o.getComponent(cc.PhysicsCircleCollider).apply())
+            }).start(), n.Instance.fruitHeigth = n.Instance.findHighestFruit()
+          }, t.prototype.createFruitSui = function (e, t) {
+          }, t.prototype.createFruitL = function (e, t, n) {
+            u.default.Instance.Play(3, !1, .5), u.default.Instance.Play(6, !1, .3);
+            for (var o = 0; o < 10; o++) {
+              var c = r.default.Spawn("juicePre", this.downEffect);
+              c.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fruitL[e];
+              var a = 359 * Math.random(),
+                i = 30 * Math.random() + n / 2,
+                l = cc.v2(Math.sin(a * Math.PI / 180) * i, Math.cos(a * Math.PI / 180) * i);
+              c.scale = .5 * Math.random() + n / 100;
+              var p = .5 * Math.random();
+              c.position = t, c.runAction(cc.sequence(cc.spawn(cc.moveBy(p, l), cc.scaleTo(p + .5, .3), cc.rotateBy(p + .5, s.default.RandomInteger(-360, 360))), cc.fadeOut(.1), cc.callFunc(function () {
+                h.active = !1
+              }, this)))
+            }
+            for (var f = 0; f < 20; f++) {
+              var h = r.default.Spawn("juicePre", this.downEffect);
+              h.getComponent(cc.Sprite).spriteFrame = d.default.Instance.guozhiL[e], h.active = !0;
+              a = 359 * Math.random(), i = 30 * Math.random() + n / 2, l = cc.v2(Math.sin(a * Math.PI / 180) * i, Math.cos(a * Math.PI / 180) * i);
+              h.scale = .5 * Math.random() + n / 100;
+              p = .5 * Math.random();
+              h.position = t, h.runAction(cc.sequence(cc.spawn(cc.moveBy(p, l), cc.scaleTo(p + .5, .3)), cc.fadeOut(.1), cc.callFunc(function () {
+                h.active = !1
+              }, this)))
+            }
+            var m = r.default.Spawn("juicePre", this.downEffect);
+            m.getComponent(cc.Sprite).spriteFrame = d.default.Instance.guozhiZ[e], m.position = t, m.scale = 0, m.angle = s.default.RandomInteger(0, 360), m.runAction(cc.sequence(cc.spawn(cc.scaleTo(.2, n / 150), cc.fadeOut(1)), cc.callFunc(function () {
+              m.active = !1
+            })))
+          }, t.prototype.levelUpEffect = function () {
+            for (var e = 0; e < 25; e++) {
+              var t = r.default.Spawn("lightEffect", this.downEffect);
+              t.scale = .3 * Math.random() + .2, t.opacity = 210;
+              var n = 360 * Math.random() * Math.PI / 180,
+                o = 20 * Math.random(),
+                c = 35 + 60 * Math.random(),
+                a = cc.v2(Math.sin(n) * (o + c), Math.cos(n) * (o + c));
+              cc.tween(t).to(.8, {
+                position: a,
+                angle: s.default.getRandomNum(180, 360, !0),
+                opacity: s.default.getRandomNum(.4, .8)
+              }, {
+                easing: "cubicOut"
+              }).then(cc.removeSelf(!0))
+            }
+          }, t.prototype.conboHit = function (e) {
+            var t = this;
+            u.default.Instance.Play(5, !1, .5);
+            var n = r.default.Spawn("addScore", this.bazieffect);
+            n.position = cc.v2(0, -200), n.scale = .2, n.children[0].getComponent(cc.Label).string = e, n.runAction(cc.sequence(cc.spawn(cc.scaleTo(.3, 1), cc.moveBy(.3, 0, 200), cc.rotateBy(.3, 720), cc.callFunc(function () {
+              t.getScore(10 * e, cc.v2(0, -200), .8, .5)
+            })), cc.fadeOut(.5))), this.levelUpEffect()
+          }, t.prototype.getScore = function (e, t, n, o) {
+            var c = r.default.Spawn("score", this.bazieffect);
+            c.position = t, c.scale = .2, c.children[1].getComponent(cc.Label).string = e, c.runAction(cc.sequence(cc.spawn(cc.scaleTo(.3, n), cc.moveBy(.3, 0, 150), cc.rotateBy(.3, 720)), cc.fadeOut(o)))
+          }, t.prototype.ribbonEffect = function (e) {
+            u.default.Instance.Play(3, !1, 1);
+            for (var t = s.default.getRandomNum(80, 100), n = 0; n < t; n++) {
+              var o = r.default.Spawn("star", this.bazieffect);
+              o.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fllows[s.default.getRandomNum(0, 5, !0)], o.position = e;
+              e.x;
+              o.setScale(s.default.getRandomNum(.7, 1));
+              var c = 360 * Math.random() * Math.PI / 180,
+                a = 360 * Math.random(),
+                i = cc.v2(o.x + Math.sin(c) * a, o.y + Math.cos(c) * a + 150);
+              cc.v2(i.x, i.y + 100);
+              o.runAction(cc.sequence(cc.spawn(cc.moveTo(.255, i).easing(cc.easeCubicActionOut()), cc.scaleTo(.255, 1 * Math.random() + .5), cc.moveBy(4.25, cc.v2(0, .8 * -cc.winSize.height - Math.random() * cc.winSize.height)), cc.rotateBy(4.25, (1800 * Math.random() + 1200) * (Math.random() > .5 ? 1 : -1)), cc.sequence(cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0)), cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0)), cc.moveBy(.17 * (8 * Math.random() + 6), cc.v2((100 * Math.random() + 100) * (Math.random() > .5 ? -1 : 1), 0))), cc.sequence(cc.delayTime(.17 * s.default.getRandomNum(20, 24.5)), cc.fadeOut(.17))), cc.removeSelf(!0)))
+            }
+          }, t.prototype.ShowLandParti = function (e, t) {
+            for (var n = t, o = [cc.v2(e.position.x - 8, e.position.y), cc.v2(e.position.x + 8, e.position.y)], c = 0; c < o.length; c++) {
+              if (o[c].x < e.position.x) var a = -1;
+              else a = 1;
+              for (var i = function () {
+                var t = r.default.Spawn("juicePre", e);
+                t.setSiblingIndex(4), t.getComponent(cc.Sprite).spriteFrame = d.default.Instance.fllows[s.default.getRandomNum(0, 5, !0)], t.stopAllActions(), t.opacity = 255, t.scale = .3;
+                var n = o[c];
+                t.setPosition(n);
+                var i = cc.v2(s.default.getRandomNum(0, 400, !0) * a, -s.default.getRandomNum(300, 500, !0)),
+                  u = s.default.getRandomNum(1440, 3600, !0) * a,
+                  p = s.default.getRandomNum(450, 600, !0);
+                t.runAction(cc.sequence(cc.spawn(cc.sequence(cc.jumpBy(s.default.RandomInteger(1500, 1700) / p, i, p, 1), cc.spawn(cc.moveBy(50 / p, cc.v2(0, -30)), cc.fadeOut(50 / p))), cc.scaleTo(s.default.RandomInteger(1500, 1700) / p, s.default.getRandomNum(.4, .7, !1)), cc.rotateTo(s.default.RandomInteger(1500, 1700) / p, u / 2)), cc.callFunc(function () {
+                  r.default.Despawn("juicePre", t)
+                }, l)))
+              }, l = this, u = 0; u < n; u++) i()
+            }
+          }, t.Instance = null, c([h(cc.Node)], t.prototype, "bgLayer", void 0), c([h(cc.Node)], t.prototype, "bgCamera", void 0), c([h(cc.Node)], t.prototype, "mainCamera", void 0), c([h(cc.Node)], t.prototype, "fruitNode", void 0), c([h(cc.Node)], t.prototype, "lineNode", void 0), c([h(cc.Node)], t.prototype, "bazieffect", void 0), c([h(cc.Node)], t.prototype, "downEffect", void 0), c([h(cc.Prefab)], t.prototype, "fruitPre", void 0), t = n = c([f], t)
       }(cc.Component);
     n.default = m, cc._RF.pop()
   }, {
@@ -1332,24 +1332,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "e5ba8qbQSBBz6Xl6OzdDwcL", "GameManager");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -1542,24 +1542,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "2fb79pURUZExoy/hAOtHdvz", "InputController");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -1605,24 +1605,24 @@ window.__require = function e(t, n, o) {
           i.default.playerTouch && null != a.default.Instance.targetFruit && (this.touchNum = 1, a.default.Instance.targetFruit.x = this.node.convertToNodeSpaceAR(e.getLocation()).x)
         }, t.prototype.onTouchEnd = function (e) {
           var t = this;
-          i.default.playerTouch && null != a.default.Instance.targetFruit && 1 == this.touchNum && (this.touchNum = 0, a.default.Instance.targetFruit.getComponent(cc.PhysicsCircleCollider).radius = a.default.Instance.targetFruit.height / 2, a.default.Instance.targetFruit.getComponent(cc.PhysicsCircleCollider).apply(), a.default.Instance.targetFruit.getComponent(cc.RigidBody).active = true,a.default.Instance.targetFruit.getComponent(cc.RigidBody).type = cc.RigidBodyType.Dynamic, a.default.Instance.targetFruit.getComponent(cc.RigidBody).linearVelocity = cc.v2(0, -800), a.default.Instance.targetFruit = null,
-            // 生成指定水果
+          i.default.playerTouch && null != a.default.Instance.targetFruit && 1 == this.touchNum && (this.touchNum = 0, a.default.Instance.targetFruit.getComponent(cc.PhysicsCircleCollider).radius = a.default.Instance.targetFruit.height / 2, a.default.Instance.targetFruit.getComponent(cc.PhysicsCircleCollider).apply(), a.default.Instance.targetFruit.getComponent(cc.RigidBody).active = true, a.default.Instance.targetFruit.getComponent(cc.RigidBody).type = cc.RigidBodyType.Dynamic, a.default.Instance.targetFruit.getComponent(cc.RigidBody).linearVelocity = cc.v2(0, -800), a.default.Instance.targetFruit = null,
+            // Tạo trái cây chỉ định
             this.scheduleOnce(function () {
               if (setFruits) {
-                let {startFruits} =  setFruits;
+                let { startFruits } = setFruits;
                 i.default.GameUpdateCtrl && (startFruits.length > t.createFruitCount ?
                   (a.default.Instance.createOneFruit(startFruits[t.createFruitCount]), t.createFruitCount++) :
                   (a.default.Instance.createOneFruit(setFruits.randomFunction()), t.createFruitCount++))
               } else {
                 i.default.GameUpdateCtrl && (0 == t.createFruitCount ? (a.default.Instance.createOneFruit(0),
                   t.createFruitCount++) : 1 == t.createFruitCount ? (a.default.Instance.createOneFruit(0),
-                  t.createFruitCount++) : 2 == t.createFruitCount ? (a.default.Instance.createOneFruit(1),
-                  t.createFruitCount++) : 3 == t.createFruitCount ? (a.default.Instance.createOneFruit(2),
-                  t.createFruitCount++) : 4 == t.createFruitCount ? (a.default.Instance.createOneFruit(2),
-                  t.createFruitCount++) : 5 == t.createFruitCount ? (a.default.Instance.createOneFruit(3),
-                  t.createFruitCount++) : t.createFruitCount > 5 &&
-                  (a.default.Instance.createOneFruit(s.default.RandomInteger(0, 5)),
-                    t.createFruitCount++))
+                    t.createFruitCount++) : 2 == t.createFruitCount ? (a.default.Instance.createOneFruit(1),
+                      t.createFruitCount++) : 3 == t.createFruitCount ? (a.default.Instance.createOneFruit(2),
+                        t.createFruitCount++) : 4 == t.createFruitCount ? (a.default.Instance.createOneFruit(2),
+                          t.createFruitCount++) : 5 == t.createFruitCount ? (a.default.Instance.createOneFruit(3),
+                            t.createFruitCount++) : t.createFruitCount > 5 &&
+                (a.default.Instance.createOneFruit(s.default.RandomInteger(0, 5)),
+                  t.createFruitCount++))
               }
             }, .5))
         }, t.prototype.closeTouch = function () {
@@ -1645,24 +1645,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "bf98eOWbcJGeLpI/I0HGW8j", "KnifeCollision");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -1775,25 +1775,25 @@ window.__require = function e(t, n, o) {
     cc._RF.push(t, "4754e8KuPZJCqklCNyKpG29", "LanguageSetJs");
     t.exports = {
       language_1: {
-        game_name: "\u300c\u5c04\u82f9\u679c\u300d",
-        game_name1: "\u5c04\u82f9\u679c",
-        game_info: "\u628a\u63e1\u65f6\u673a\uff0c\u5c04\u4e2d\u82f9\u679c\u3002",
-        txtStart: "\u5f00\u59cb",
-        txtMore: "\u66f4\u591a\u6e38\u620f",
-        txtAgain: "\u518d\u73a9\u4e00\u6b21",
-        txtShare1: "\u5728\u6e38\u620f\u4e2d ",
-        txtShare2: "\u5f97\u5206\u4e86\uff0c\u597d\u554a!\u4f60\u548c\u6211\u4e00\u8d77\u6765\u6bd4\u8d5b!",
+        game_name: "「Bắn Trái Cây」",
+        game_name1: "Bắn Trái Cây",
+        game_info: "Nắm bắt thời cơ, bắn trúng trái cây.",
+        txtStart: "Bắt đầu",
+        txtMore: "Game khác",
+        txtAgain: "Chơi lại",
+        txtShare1: "Trong game ",
+        txtShare2: "đã ghi điểm, tuyệt quá! Bạn và tôi cùng thi đấu nhé!",
         bgRgb: "#3698C5",
-        gameT1: "\u5173\u6ce8\u6211\u4eec",
-        gameT2: "\u7eb8\u724c\u63a5\u9f99",
-        gameT3: "\u9526\u4e0a\u6dfb\u82b1",
+        gameT1: "Theo dõi chúng tôi",
+        gameT2: "Xếp bài Solitaire",
+        gameT3: "Gấm thêm hoa",
         gameUrl1: "http://g.regogame.com/game/9/",
         gameUrl2: "http://g.regogame.com/game/3/",
-        gameT11: "\u5173\u6ce8\u5fae\u4fe1",
-        gameT12: "\u5173\u6ce8Kakao",
-        gameT13: "\u5173\u6ce8Line",
-        gameEndL: "\u6e38 \u620f \u7ed3 \u675f",
-        gameEndL1: "\u7a0d \u5019 \u67e5 \u770b \u5206 \u6570"
+        gameT11: "Theo dõi WeChat",
+        gameT12: "Theo dõi Kakao",
+        gameT13: "Theo dõi Line",
+        gameEndL: "Trò chơi kết thúc",
+        gameEndL1: "Xem điểm số sau"
       },
       language_2: {
         game_name: "\u300cShot Apples\u300d",
@@ -1886,7 +1886,7 @@ window.__require = function e(t, n, o) {
         var e = 1;
         switch (cc.sys.language) {
           case cc.sys.LANGUAGE_CHINESE:
-            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("\u7e41\u4f53"), e = 2) : (cc.log("\u7b80\u4f53"), e = 1);
+            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("Phồn thể"), e = 2) : (cc.log("Giản thể"), e = 1);
             break;
           case cc.sys.LANGUAGE_KOREAN:
             e = 4;
@@ -1899,7 +1899,7 @@ window.__require = function e(t, n, o) {
       gameEnd1: function () {
         var e = this,
           t = this.returnCurrentLanType();
-        1 == t ? (this.gameOverT1.string = "\u6e38 \u620f \u7ed3 \u675f", this.gameOverT2.string = "\u70b9 \u51fb \u67e5 \u770b \u5206 \u6570") : 2 == t ? (this.gameOverT1.string = "\u904a \u6232 \u7d50 \u675f", this.gameOverT2.string = "\u9ede \u64ca \u67e5 \u770b \u5206 \u6578") : 4 == t ? (this.gameOverT1.string = "\uac8c\uc784 \uc885\ub8cc", this.gameOverT2.string = "\ud074\ub9ad \ud558\uc5ec \uc810\uc218 \ubcf4\uae30") : (this.gameOverT1.string = "Game Over", this.gameOverT2.string = "Click to view the score"), this.gameOveEndBool = !0, this.gameOverT1.node.zIndex = 999, this.gameOverT2.node.zIndex = 999, this.gameOverToEnd.zIndex = 999, this.gameOverT1.node.opacity = 0, this.gameOverT1.node.y = 100, this.gameOverToEnd.y = 0, this.gameOverT1.node.runAction(cc.sequence(cc.delayTime(.2), cc.spawn(cc.fadeIn(1), cc.moveBy(1, 0, -50)), cc.delayTime(.3))), this.gameOverToEnd.runAction(cc.sequence(cc.fadeTo(1, 100), cc.callFunc(function () {
+        1 == t ? (this.gameOverT1.string = "Trò chơi kết thúc", this.gameOverT2.string = "Nhấn để xem điểm") : 2 == t ? (this.gameOverT1.string = "Trò chơi kết thúc", this.gameOverT2.string = "Nhấn để xem điểm") : 4 == t ? (this.gameOverT1.string = "\uac8c\uc784 \uc885\ub8cc", this.gameOverT2.string = "\ud074\ub9ad \ud558\uc5ec \uc810\uc218 \ubcf4\uae30") : (this.gameOverT1.string = "Game Over", this.gameOverT2.string = "Click to view the score"), this.gameOveEndBool = !0, this.gameOverT1.node.zIndex = 999, this.gameOverT2.node.zIndex = 999, this.gameOverToEnd.zIndex = 999, this.gameOverT1.node.opacity = 0, this.gameOverT1.node.y = 100, this.gameOverToEnd.y = 0, this.gameOverT1.node.runAction(cc.sequence(cc.delayTime(.2), cc.spawn(cc.fadeIn(1), cc.moveBy(1, 0, -50)), cc.delayTime(.3))), this.gameOverToEnd.runAction(cc.sequence(cc.fadeTo(1, 100), cc.callFunc(function () {
           e.gameOverToEnd.getComponent(cc.Button).enabled = !0
         }))), this.gameOverT2.node.opacity = 0, this.gameOverT2.node.y = this.gameOverT1.node.y - 100, this.gameOverT2.node.runAction(cc.sequence(cc.delayTime(.2), cc.spawn(cc.fadeIn(1), cc.moveBy(1, 0, -50)), cc.delayTime(.3))), this.gameOverT2.node.runAction(cc.sequence(cc.delayTime(2), cc.scaleTo(.3, 1.2).easing(cc.easeSineInOut()), cc.scaleTo(.3, 1).easing(cc.easeSineInOut()))).repeatForever()
       },
@@ -1942,24 +1942,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "47901xGYuJBULv7U12/mbpk", "MainGameUi");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2001,10 +2001,10 @@ window.__require = function e(t, n, o) {
           this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
         }, t.prototype.adsButtonFunc = function () {
           if (clickChangeFruit) {
-            if(gameFunction.default.Instance.targetFruit) {
+            if (gameFunction.default.Instance.targetFruit) {
               gameFunction.default.Instance.targetFruit.destroy();
               gameFunction.default.Instance.targetFruit = null;
-              gameFunction.default.Instance.createOneFruit(Math.floor(Math.random()*6));
+              gameFunction.default.Instance.createOneFruit(Math.floor(Math.random() * 6));
             }
             return;
           }
@@ -2165,7 +2165,7 @@ window.__require = function e(t, n, o) {
         },
         initLanguage: function () {
           var e = null;
-          return cc.sys.language == cc.sys.LANGUAGE_CHINESE ? (this.curType = 1, e = c.language_1) : (cc.log("\u82f1\u6587"), this.curType = 2, e = c.language_2), e
+          return cc.sys.language == cc.sys.LANGUAGE_CHINESE ? (this.curType = 1, e = c.language_1) : (cc.log("Tiếng Anh"), this.curType = 2, e = c.language_2), e
         },
         getLinkGameReturn: function (e, t, n, o) {
           if (console.log("err0", e), console.log("err1", t), console.log("err2", n), console.log("err3", o), 0 == e) {
@@ -2239,13 +2239,13 @@ window.__require = function e(t, n, o) {
       i = c.property,
       r = function () {
         function e() {
-          this.nickName = "\u5927\u638c\u6559", this.qGroup = "704391772"
+          this.nickName = "Đại Chưởng Giáo", this.qGroup = "704391772"
         }
 
         return o([i({
-          displayName: "\u6635\u79f0"
+          displayName: "Biệt danh"
         })], e.prototype, "nickName", void 0), o([i({
-          displayName: "Q\u7fa4"
+          displayName: "Nhóm Q"
         })], e.prototype, "qGroup", void 0), e = o([a("Player")], e)
       }();
     n.default = r, cc._RF.pop()
@@ -2254,24 +2254,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "73fcd1QF4lBEY8WPMIj3xr6", "PhysicsParticle");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2324,24 +2324,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "42678O0bOREZKAMjCljpxI3", "PoolManager");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2380,7 +2380,7 @@ window.__require = function e(t, n, o) {
           var a = cc.instantiate(n.Instance.allPrefabMap.get(e));
           return null != t && (a.parent = t), a
         }, t.Despawn = function (e, t) {
-          if (!n.Instance.poolMap.has(e)) return cc.log("\u56de\u6536\u5931\u8d25,\u8282\u70b9\u540d : " + e), null;
+          if (!n.Instance.poolMap.has(e)) return cc.log("Thu hồi thất bại, tên node : " + e), null;
           n.Instance.poolMap.get(e).put(t)
         }, t.GetPrefab = function (e) {
           return n.Instance.allPrefabMap.has(e) ? n.Instance.allPrefabMap.get(e) : null
@@ -2398,24 +2398,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "a801awRcfxIuaFIGRbzJh/6", "RandomFly");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2516,24 +2516,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "ed67fc+jBJNaKKrcIP1lh6B", "RenderWater");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2582,24 +2582,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "8d9fdeeLCdEi5Zh0PNydB+G", "Rocker");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2630,24 +2630,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "d0683O41+dL0LiH0SbEMp2i", "RotateAround");
     var o, c = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       a = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2716,7 +2716,7 @@ window.__require = function e(t, n, o) {
             return this.faceToTarget
           }
         })], t.prototype, "faceAxis", void 0), a([s({
-          tooltip: "\u81ea\u52a8\u5f00\u59cb\u65cb\u8f6c"
+          tooltip: "Tự động bắt đầu xoay"
         })], t.prototype, "autoStart", void 0), t = a([r], t)
       }(cc.Component);
     n.default = l, cc._RF.pop()
@@ -2758,24 +2758,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "4aec9V8qWdDa5TaF3chhmaO", "SpriteManager");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -2902,10 +2902,10 @@ window.__require = function e(t, n, o) {
       },
       writeJson: function (e, t) {
         if (cc.sys.isBrowser) {
-          console.log("\u6d4f\u89c8\u5668");
+          console.log("Trình duyệt");
           var n = new Blob([e], {
-              type: "application/json"
-            }),
+            type: "application/json"
+          }),
             o = document.createElement("a");
           o.download = t, o.innerHTML = "Download File", null != window.webkitURL ? o.href = window.webkitURL.createObjectURL(n) : (o.href = window.URL.createObjectURL(n), o.onclick = destroyClickedElement, o.style.display = "none", document.body.appendChild(o)), o.click()
         }
@@ -2930,7 +2930,7 @@ window.__require = function e(t, n, o) {
           var a = cc.instantiate(c);
           return null != t && t.addChild(a, o), null != n && (a.position = n), a
         }
-        return console.log("\u514b\u9686\u9884\u5236\u4f53\u5931\u8d25:" + e), null
+        return console.log("Clone prefab thất bại:" + e), null
       },
       newLabel: function (e, t) {
         var n = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : 20,
@@ -2954,7 +2954,7 @@ window.__require = function e(t, n, o) {
         var t = void 0;
         if (null != this.AudioArrJs) t = this.AudioArrJs.getAudioClip(e);
         else {
-          if (null == e) return console.log("clip\u4e0d\u80fd\u4e3a\u7a7a\uff01"), null;
+          if (null == e) return console.log("clip không thể để trống!"), null;
           t = e
         }
         var n = new cc.Node;
@@ -2992,7 +2992,7 @@ window.__require = function e(t, n, o) {
         var e = 1;
         switch (cc.sys.language) {
           case cc.sys.LANGUAGE_CHINESE:
-            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("\u7e41\u4f53"), e = 2) : (cc.log("\u7b80\u4f53"), e = 1);
+            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("Phồn thể"), e = 2) : (cc.log("Giản thể"), e = 1);
             break;
           case cc.sys.LANGUAGE_KOREAN:
             e = 4;
@@ -3017,7 +3017,7 @@ window.__require = function e(t, n, o) {
       return e.getBezierPos = function (e, t) {
         var n = new Array,
           o = e.length;
-        if (o < 2) return cc.log("\u63a7\u5236\u70b9\u6570\u4e0d\u80fd\u5c0f\u4e8e 2"), n;
+        if (o < 2) return cc.log("Số điểm điều khiển không thể nhỏ hơn 2"), n;
         for (var c = this.getYangHuiTriangle(o), a = 0; a < t; a++) {
           for (var i = a / t, r = 0, s = 0, l = 0; l < o; l++) r += Math.pow(1 - i, o - l - 1) * e[l].x * Math.pow(i, l) * c[l], s += Math.pow(1 - i, o - l - 1) * e[l].y * Math.pow(i, l) * c[l];
           n[a] = new cc.Vec2(r, s)
@@ -3128,7 +3128,7 @@ window.__require = function e(t, n, o) {
         var e = 1;
         switch (cc.sys.language) {
           case cc.sys.LANGUAGE_CHINESE:
-            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("\u7e41\u4f53"), e = 2) : (cc.log("\u7b80\u4f53"), e = 1);
+            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("Phồn thể"), e = 2) : (cc.log("Giản thể"), e = 1);
             break;
           case cc.sys.LANGUAGE_KOREAN:
             e = 4;
@@ -3268,24 +3268,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "9f05e4uSUJBf7dp3DMjGgbj", "WallUpdate");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -3417,24 +3417,24 @@ window.__require = function e(t, n, o) {
     "use strict";
     cc._RF.push(t, "55375yB7OxHJ6SSoJ5ShoDj", "fruitData");
     var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
-
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      var e = function (t, n) {
+        return (e = Object.setPrototypeOf || {
+          __proto__: []
         }
-      }(),
+          instanceof Array && function (e, t) {
+            e.__proto__ = t
+          } || function (e, t) {
+            for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+          })(t, n)
+      };
+      return function (t, n) {
+        function o() {
+          this.constructor = t
+        }
+
+        e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+      }
+    }(),
       c = this && this.__decorate || function (e, t, n, o) {
         var c, a = arguments.length,
           i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
@@ -3470,250 +3470,184 @@ window.__require = function e(t, n, o) {
           if (this.node.x < -this.bianjieX && (this.node.x = -this.bianjieX), this.node.x > this.bianjieX && (this.node.x = this.bianjieX), this.notTargetTime += e, this.returnNumber && (this.scheduleOnce(function () {
             t.getNumberTime = 0
           }, .25), this.returnNumber = !1),
-          "fruitNode" == this.node.parent.name && (this.testEndDJS += e),
-          this.node.y + this.node.width / 2 > cc.find("Canvas/lineNode")
-            .children[0].y && 0 == this.pengzhuangCount
-          && this.endCtrl
-          && 0 == this.endOne
-          && this.testEndDJS > 3
-          && wuDi) { // 无敌模式
-            a.default.GameUpdateCtrl = !1, a.default.playerTouch = !1;
-            for (var n = 0; n < cc.find("Canvas/fruitNode").children.length; n++) cc.find("Canvas/fruitNode").children[n].removeComponent(cc.PhysicsCircleCollider), cc.find("Canvas/fruitNode").children[n].removeComponent(cc.RigidBody);
-            this.node.color = cc.Color.RED, cc.tween(this.node).to(.3, {
-              opacity: 0
-            }).to(.3, {
-              opacity: 255
-            }).union().repeat(3).call(function () {
-              i.default.Instance.end(), cc.find("Canvas/lineNode").children[0].active = !1
-            }).start(), this.endOne++
-          }
-        }, t.prototype.setGridInfo = function () {
-        }, t.prototype.getNumber = function () {
-          var e = this.getNumberTime;
-          return this.getNumberTime++, this.returnNumber = !0, e
-        }, t.prototype.onBeginContact = function (e, t, n) {
-          var o = this;
-          if ("downwall" == n.node.group && (t.node.parent = cc.find("Canvas/fruitNode"), 0 == this.wallColl && (d.default.Instance.Play(5, !1, 1), this.wallColl++)), "fruit" == n.node.group) {
-            if (this.endCtrl = !0, t.node.y < n.node.y) return;
-            t.node.parent = cc.find("Canvas/fruitNode"), i.default.Instance.fruitHeigth = i.default.Instance.findHighestFruit(), null != t.node.getComponent(cc.RigidBody) && (t.node.getComponent(cc.RigidBody).angularVelocity = 0);
-            var c = this.fruitNumber,
-              r = n.node.getComponent("fruitData").fruitNumber;
-            // 控制合成水果的边界值
-            var border = reverseLevelUp ? 1 : 9;
-            // 控制合成水果后的升级逻辑
-            var fruitVolume = reverseLevelUp ? -1 : 1;
-            // 合成水果，水果下标 0-9 (0 为葡萄，9 为半个西瓜，有一些特殊逻辑)
-            c == r && (reverseLevelUp ? (c > border && r > border) : (c < border && r < border)) ? (this.pengzhuangCount += 1,
-              0 == t.node.getComponent("fruitData").getNumber() && (a.default.score += this.fruitNumber + (extraScore ? extraScore : 1), // 改分数
-                u.default.Instance.SetScoreTween(a.default.score),
-                n.node.getComponent(cc.PhysicsCircleCollider).radius = 0,
-                n.node.getComponent(cc.PhysicsCircleCollider).apply(),
-                this.node.getComponent(cc.PhysicsCircleCollider).radius = 0,
-                this.node.getComponent(cc.PhysicsCircleCollider).apply(),
-                cc.tween(t.node).to(.1, {
-                  position: n.node.position
-                }).call(function () {
-                  i.default.Instance.createFruitSui(o.fruitNumber, n.node.position), i.default.Instance.createFruitL(o.fruitNumber, n.node.position, n.node.width),
-                    i.default.Instance.createLevelUpFruit(o.fruitNumber + fruitVolume, n.node.position),
-                    n.node.active = !1, t.node.active = !1, n.node.destroy(), t.node.destroy()
-                }).start())) :
-              c == r && border == c && border == r && // 边界逻辑
-              (this.pengzhuangCount += 1,
-              0 == t.node.getComponent("fruitData").getNumber() && (a.default.score += this.fruitNumber + (extraScore ? extraScore : 1), // 改分数
-                u.default.Instance.SetScoreTween(a.default.score),
-                n.node.getComponent(cc.PhysicsCircleCollider).radius = 0,
-                n.node.getComponent(cc.PhysicsCircleCollider).apply(),
-                this.node.getComponent(cc.PhysicsCircleCollider).radius = 0,
-                this.node.getComponent(cc.PhysicsCircleCollider).apply(),
-                a.default.playerTouch = !1, cc.tween(t.node).to(.1, {
-                position: n.node.position
-              }).call(function () {
-                i.default.Instance.createFruitSui(o.fruitNumber, n.node.position),
-                  i.default.Instance.createFruitL(o.fruitNumber, n.node.position, n.node.width),
-                  // +1 变 -1
-                  i.default.Instance.createLevelUpFruit(o.fruitNumber + fruitVolume, n.node.position);
-                var e = cc.find("Canvas/upEffectParent").getChildByName("daxigua");
-                e.active = !0, e.opacity = 0, cc.tween(e).to(.5, {
-                  opacity: 150
-                }).start();
-                var c = new cc.Node;
-                c.addComponent(cc.Sprite).spriteFrame = l.default.Instance.fruit[reverseLevelUp ? 0 : 10], c.parent = cc.find("Canvas/upEffectParent"), c.position = cc.v2(0, -500), c.scale = 0;
-                var r = new cc.Node;
-                r.addComponent(cc.Sprite).spriteFrame = l.default.Instance.caidia[6], r.scale = 3, r.parent = c, r.position = cc.v2(0), cc.tween(r).by(5, {
-                  angle: 360
-                }).repeatForever().start();
-                var s = new cc.Node;
-                s.addComponent(cc.Sprite).spriteFrame = l.default.Instance.fruit[reverseLevelUp ? 0 : 10], s.parent = c, s.position = cc.v2(0), d.default.Instance.Play(4, !1, 1), i.default.Instance.ribbonEffect(cc.v2(0, 0)), c.runAction(cc.sequence(cc.spawn(cc.jumpBy(1, 0, 0, 300, 1), cc.scaleTo(1, 1)), cc.delayTime(1), cc.spawn(cc.moveTo(1, cc.v2(0, 500)), cc.scaleTo(1, 0)), cc.callFunc(function () {
-                  a.default.score += 100, u.default.Instance.SetScoreTween(a.default.score), e.active = !1, a.default.playerTouch = !0, c.destroy()
-                }))), n.node.active = !1, t.node.active = !1, n.node.destroy(), t.node.destroy()
-              }).start()))
+            "fruitNode" == this.node.parent.name && (this.testEndDJS += e),
+            c.addComponent(cc.Sprite).spriteFrame = l.default.Instance.fruit[reverseLevelUp ? 0 : 10], c.parent = cc.find("Canvas/upEffectParent"), c.position = cc.v2(0, -500), c.scale = 0;
+          var r = new cc.Node;
+          r.addComponent(cc.Sprite).spriteFrame = l.default.Instance.caidia[6], r.scale = 3, r.parent = c, r.position = cc.v2(0), cc.tween(r).by(5, {
+            angle: 360
+          }).repeatForever().start();
+          var s = new cc.Node;
+          s.addComponent(cc.Sprite).spriteFrame = l.default.Instance.fruit[reverseLevelUp ? 0 : 10], s.parent = c, s.position = cc.v2(0), d.default.Instance.Play(4, !1, 1), i.default.Instance.ribbonEffect(cc.v2(0, 0)), c.runAction(cc.sequence(cc.spawn(cc.jumpBy(1, 0, 0, 300, 1), cc.scaleTo(1, 1)), cc.delayTime(1), cc.spawn(cc.moveTo(1, cc.v2(0, 500)), cc.scaleTo(1, 0)), cc.callFunc(function () {
+            a.default.score += 100, u.default.Instance.SetScoreTween(a.default.score), e.active = !1, a.default.playerTouch = !0, c.destroy()
+          }))), n.node.active = !1, t.node.active = !1, n.node.destroy(), t.node.destroy()
+        }).start()))
           }
         }, t.prototype.createBoom = function () {
-          var e = r.default.Spawn("boom", cc.find("Canvas/upEffectParent"));
-          e.position = this.node.position, e.runAction(cc.sequence(cc.delayTime(.5), cc.fadeOut(.5)))
-        }, t.prototype.createStar = function () {
-          var e = r.default.Spawn("star", cc.find("Canvas/upEffectParent"));
-          e.scale = s.default.Random(.1, 1);
-          var t = this.node.x + this.node.width / 2,
-            n = this.node.x - this.node.width / 2,
-            o = this.node.y;
-          e.position = cc.v2(s.default.RandomInteger(n, t), o), e.runAction(cc.fadeOut(2))
-        }, t.prototype.planeBoomEffect = function () {
-          r.default.Spawn("boom", cc.find("Canvas/upEffectParent")).position = s.default.convetOtherNodeSpaceAR(this.node, cc.find("Canvas/upEffectParent"))
-        }, t.prototype.clockEoilffect = function (e, t) {
-          for (var n = 0; n < 3; n++) setTimeout(function () {
-            var t = r.default.Spawn("star", cc.find("Canvas/upEffectParent"));
-            t.position = e.position, t.scale = .3, t.runAction(cc.sequence(cc.scaleTo(.5, 1.1), cc.fadeOut(.5)))
-          }, 300 * n)
-        }, t.prototype.addScoreEffect = function () {
-          var e = r.default.Spawn("add1", cc.find("Canvas/mainGameUi"));
-          e.position = cc.find("Canvas/mainGameUi").children[0].position.add(cc.v2(0, 50)), e.runAction(cc.spawn(cc.moveBy(.5, 0, 50), cc.fadeOut(.5)))
-        }, c([h()], t.prototype, "fruitNumber", void 0), t = c([f], t)
+  var e = r.default.Spawn("boom", cc.find("Canvas/upEffectParent"));
+  e.position = this.node.position, e.runAction(cc.sequence(cc.delayTime(.5), cc.fadeOut(.5)))
+}, t.prototype.createStar = function () {
+  var e = r.default.Spawn("star", cc.find("Canvas/upEffectParent"));
+  e.scale = s.default.Random(.1, 1);
+  var t = this.node.x + this.node.width / 2,
+    n = this.node.x - this.node.width / 2,
+    o = this.node.y;
+  e.position = cc.v2(s.default.RandomInteger(n, t), o), e.runAction(cc.fadeOut(2))
+}, t.prototype.planeBoomEffect = function () {
+  r.default.Spawn("boom", cc.find("Canvas/upEffectParent")).position = s.default.convetOtherNodeSpaceAR(this.node, cc.find("Canvas/upEffectParent"))
+}, t.prototype.clockEoilffect = function (e, t) {
+  for (var n = 0; n < 3; n++) setTimeout(function () {
+    var t = r.default.Spawn("star", cc.find("Canvas/upEffectParent"));
+    t.position = e.position, t.scale = .3, t.runAction(cc.sequence(cc.scaleTo(.5, 1.1), cc.fadeOut(.5)))
+  }, 300 * n)
+}, t.prototype.addScoreEffect = function () {
+  var e = r.default.Spawn("add1", cc.find("Canvas/mainGameUi"));
+  e.position = cc.find("Canvas/mainGameUi").children[0].position.add(cc.v2(0, 50)), e.runAction(cc.spawn(cc.moveBy(.5, 0, 50), cc.fadeOut(.5)))
+}, c([h()], t.prototype, "fruitNumber", void 0), t = c([f], t)
       }(cc.Component);
-    n.default = m, cc._RF.pop()
+n.default = m, cc._RF.pop()
   }, {
-    "../Common/PoolManager": "PoolManager",
+  "../Common/PoolManager": "PoolManager",
     "../Common/Utils": "Utils",
-    "../common/DynamicLoad": "DynamicLoad",
-    "../common/PlayerInfo": "PlayerInfo",
-    "./AudioManager": "AudioManager",
-    "./GameFunction": "GameFunction",
-    "./MainGameUi": "MainGameUi"
-  }],
-  gameOverJs: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "3621brbM61BsYFG7fM/74TL", "gameOverJs");
-    var o = e("GameUiTools"),
-      c = e("GameConfig"),
-      a = e("MainManage");
-    cc.Class({
-      extends: cc.Component,
-      properties: {
-        bgLayer: cc.Node,
-        scoreBg: cc.Node,
-        overScoreT: cc.Label,
-        overInfoT: cc.Label,
-        moreBtn: cc.Button,
-        leftBtn: cc.Button,
-        rightBtn: cc.Button,
-        midGameText: cc.Label,
-        leftBtnText: cc.Label,
-        rightBtnText: cc.Label,
-        maxScoreText: cc.Label
-      },
-      onLoad: function () {
-        this.bgLayer.color = cc.color("#68b951"), this.standardScore = c.standScore, this.game_max_score = 200, this.rigthBtnGameName = null, this.rightBtnGameUrl = null, this.UIPosChange(), this.addClickBtns();
-        var e = "\u6700\u9ad8\u7eaa\u5f55:",
-          t = this.returnCurrentLanType();
-        e = 1 == t ? "\u6700\u9ad8\u7eaa\u5f55:" : 2 == t ? "\u6700\u9ad8\u7d00\u9304:" : 4 == t ? "\ucd5c\uace0 \uae30\ub85d:" : "Highest Record:";
-        var n = c.gameScore,
-          o = this.getHighScore();
-        o ? o < c.gameScore && (this.setHisSocre(c.gameScore), o = c.gameScore) : (this.setHisSocre(c.gameScore), o = n), this.maxScoreText.string = e + o
-      },
-      returnCurrentLanType: function () {
-        var e = 1;
-        switch (cc.sys.language) {
-          case cc.sys.LANGUAGE_CHINESE:
-            "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("\u7e41\u4f53"), e = 2) : (cc.log("\u7b80\u4f53"), e = 1);
-            break;
-          case cc.sys.LANGUAGE_KOREAN:
-            e = 4;
-            break;
-          default:
-            e = 3
-        }
-        return e
-      },
-      setHisSocre: function (e) {
-        cc.sys.localStorage.setItem("HigScore_JiaoTong", e)
-      },
-      getHighScore: function () {
-        return cc.sys.localStorage.getItem("HigScore_JiaoTong")
-      },
-      UIPosChange: function () {
-        this.overScoreT.string = c.gameScore, console.log("lang", a.langugeType);
-        var e = null;
-        e = 1 == a.langugeType ? this.getContentByScore(c.gameScore, a.gameNameText) : this.getContentByScore2(c.gameScore, a.gameNameText), console.log("nihao", a.endHttpShowInfo), null != a.endHttpShowInfo && "" != a.endHttpShowInfo && (cc.log("gototo"), e = a.endHttpShowInfo), this.overInfoT.string = e;
-        var t = this.overInfoT.node.height;
-        if (this.overInfoT.node.height = Math.ceil(e.length * this.overInfoT.fontSize / this.overInfoT.node.width) * t, document.title = e, console.log("gameOver txtMoreText", a.txtMoreText), this.midGameText.string = a.txtMoreText, this.leftBtnText.string = a.txtAgainText, this.tempArr = this.gameFocus(), null != a.ranLinkUrl()) {
-          var n = a.ranLinkUrl(),
-            o = a.ranLinkData.gameList[n].gameName;
-          this.rigthBtnGameName = o, this.rightBtnGameUrl = a.ranLinkData.gameList[n].gameUrl
-        }
-        null != this.rigthBtnGameName && "" != this.rigthBtnGameName ? this.rightBtnText.string = this.rigthBtnGameName : this.rightBtnText.string = this.tempArr[0]
-      },
-      gameFocus: function () {
-        var e = [],
-          t = null,
-          n = null;
-        return Math.random() <= .5 ? (t = a.gameEndName1, n = a.gameEndUrl1) : (t = a.gameEndName2, n = a.gameEndUrl2), e.push(t), e.push(n), e
-      },
-      addClickBtns: function () {
-        var e = this;
-        e.moreBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
-        }), e.moreBtn.node.on(cc.Node.EventType.TOUCH_END, function (e) {
-          console.log("MoreGame"), window.location.href = a.moreGameUrl
-        }), e.leftBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
-        }), e.leftBtn.node.on(cc.Node.EventType.TOUCH_END, function (e) {
-          c.GAME_OVER_BOOL = !0, c.gameScore = 0, o.loadingScene("MainGameScene")
-        }), e.rightBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
-        }), e.rightBtn.node.on(cc.Node.EventType.TOUCH_END, function (t) {
-          var n = null;
-          n = null != e.rightBtnGameUrl && "" != e.rightBtnGameUrl ? e.rightBtnGameUrl : e.tempArr[1], window.location.href = n
-        })
-      },
-      getContentByScore: function (e, t) {
-        var n = "\u6211\u771f\u662f\u592a\u5389\u5bb3\uff0c\u5728" + t + "\u4e2d\u7adf\u7136\u5f97\u4e861\u5206\uff0c\u5168\u7403\u53ea\u67091\u4e2a\u4eba\u5f971\u5206\uff01",
-          o = parseInt(.3 * this.standardScore),
-          c = parseInt(1.5 * this.standardScore),
-          a = parseInt(2.5 * this.standardScore),
-          i = parseInt(4 * this.standardScore);
-        if (e > 0 && e <= o) n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u771f\u662f\u592a\u68d2\u4e86\uff0c\u518d\u7ec3\u7ec3\u5c31\u80fd\u8fbe\u5230\u6e38\u5203\u6709\u4f59\u7684\u5883\u754c\uff01";
-        else if (e > o && e <= this.standardScore) n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u771f\u662f\u592a\u68d2\u4e86\uff0c\u518d\u7ec3\u7ec3\u5c31\u80fd\u8fbe\u5230\u6e38\u5203\u6709\u4f59\u7684\u5883\u754c\uff01";
-        else if (e > this.standardScore && e <= c) {
-          n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u51fb\u8d25\u4e86\u5168\u7403" + (Math.floor(12 * (e - this.standardScore) / (c - this.standardScore)) + 80) + "%\u7684\u73a9\u5bb6\uff0c\u8fdb\u5165\u4e86\u4fe1\u624b\u62c8\u6765\u7684\u5883\u754c\uff01"
-        } else if (e > c && e <= a) {
-          n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u51fb\u8d25\u4e86\u5168\u7403" + (Math.floor(7 * (e - c) / (a - c)) + 92) + "%\u7684\u73a9\u5bb6\uff0c\u8fdb\u5165\u4e86\u8fd0\u7528\u81ea\u5982\u7684\u5883\u754c\uff01"
-        } else if (e > a && e <= i) n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u51fb\u8d25\u4e86\u5168\u740399%\u7684\u73a9\u5bb6\uff0c\u8fbe\u5230\u4e86\u884c\u4e91\u6d41\u6c34\u7684\u5883\u754c\uff01";
-        else if (e > i && e < this.game_max_score) {
-          n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u636e\u8bf4\u5168\u7403\u53ea\u6709 " + (20 - Math.ceil(17 * (e - i) / (this.game_max_score - i))) + "\u4e2a\u4eba\u8fbe\u5230\u8fd9\u4e2a\u6c34\u5e73\uff0c\u72ec\u5b64\u6c42\u8d25\uff01"
-        } else e >= this.game_max_score && (n = "\u6211\u5728" + t + "\u4e2d\u5f97\u4e86" + e + "\u5206\uff0c\u8d85\u8d8a\u4e86\u72ec\u5b64\u6c42\u8d25\uff0c\u5fc3\u6709\u7075\u7280\uff01");
-        return n
-      },
-      strlen: function (e) {
-        for (var t = 0, n = 0; n < e.length; n++) {
-          var o = e.charCodeAt(n);
-          o >= 1 && o <= 126 || 65376 <= o && o <= 65439 ? t++ : t += 2
-        }
-        return t
-      },
-      getContentByScore2: function (e, t) {
-        var n = "I'm awesome\uff0cin" + t + "get 0 score\uff0conly one person in the world has a 0\uff01",
-          o = parseInt(.3 * this.standardScore),
-          c = parseInt(1.5 * this.standardScore),
-          a = parseInt(2.5 * this.standardScore),
-          i = parseInt(4 * this.standardScore);
-        if (e >= this.game_max_score) n = "I got " + e + " points in the game, defeating all players worldwide, waiting for you to fight!";
-        else if (e > 0 && e <= o) n = "I got " + e + " points in the game, really great\uff01";
-        else if (e > o && e <= this.standardScore) n = "I got " + e + " points in the game, really great\uff01";
-        else if (e > this.standardScore && e <= c) {
-          n = "I got in the game in " + e + " points, beating out " + (Math.floor(12 * (e - this.standardScore) / (c - this.standardScore)) + 80) + "% of global players\uff01"
-        } else if (e > c && e <= a) {
-          n = "I got in the game in " + e + " points, beating out " + (Math.floor(7 * (e - c) / (a - c)) + 92) + "% of global players\uff01"
-        } else if (e > a && e <= i) n = "I got in the game in " + e + " points, beating out 99% of global players\uff01";
-        else if (e > i && e < this.game_max_score) {
-          n = "I got " + e + " points in the game, it said to be the world's only " + (20 - Math.ceil(17 * (e - i) / (this.game_max_score - i))) + " people to reach this level! Have you?"
-        }
-        return n
-      },
-      start: function () {
+      "../common/DynamicLoad": "DynamicLoad",
+        "../common/PlayerInfo": "PlayerInfo",
+          "./AudioManager": "AudioManager",
+            "./GameFunction": "GameFunction",
+              "./MainGameUi": "MainGameUi"
+}],
+gameOverJs: [function (e, t, n) {
+  "use strict";
+  cc._RF.push(t, "3621brbM61BsYFG7fM/74TL", "gameOverJs");
+  var o = e("GameUiTools"),
+    c = e("GameConfig"),
+    a = e("MainManage");
+  cc.Class({
+    extends: cc.Component,
+    properties: {
+      bgLayer: cc.Node,
+      scoreBg: cc.Node,
+      overScoreT: cc.Label,
+      overInfoT: cc.Label,
+      moreBtn: cc.Button,
+      leftBtn: cc.Button,
+      rightBtn: cc.Button,
+      midGameText: cc.Label,
+      leftBtnText: cc.Label,
+      rightBtnText: cc.Label,
+      maxScoreText: cc.Label
+    },
+    onLoad: function () {
+      this.bgLayer.color = cc.color("#68b951"), this.standardScore = c.standScore, this.game_max_score = 200, this.rigthBtnGameName = null, this.rightBtnGameUrl = null, this.UIPosChange(), this.addClickBtns();
+      var e = "Kỷ lục cao nhất:",
+        t = this.returnCurrentLanType();
+      e = 1 == t ? "Kỷ lục cao nhất:" : 2 == t ? "Kỷ lục cao nhất:" : 4 == t ? "\ucd5c\uace0 \uae30\ub85d:" : "Highest Record:";
+      var n = c.gameScore,
+        o = this.getHighScore();
+      o ? o < c.gameScore && (this.setHisSocre(c.gameScore), o = c.gameScore) : (this.setHisSocre(c.gameScore), o = n), this.maxScoreText.string = e + o
+    },
+    returnCurrentLanType: function () {
+      var e = 1;
+      switch (cc.sys.language) {
+        case cc.sys.LANGUAGE_CHINESE:
+          "zh-TW" == window.navigator.language || "zh-tw" == window.navigator.language || "zh-HK" == window.navigator.language || "zh-hk" == window.navigator.language ? (cc.log("Phồn thể"), e = 2) : (cc.log("Giản thể"), e = 1);
+          break;
+        case cc.sys.LANGUAGE_KOREAN:
+          e = 4;
+          break;
+        default:
+          e = 3
       }
-    }), cc._RF.pop()
-  }, {
-    GameConfig: "GameConfig",
-    GameUiTools: "GameUiTools",
-    MainManage: "MainManage"
-  }],
+      return e
+    },
+    setHisSocre: function (e) {
+      cc.sys.localStorage.setItem("HigScore_JiaoTong", e)
+    },
+    getHighScore: function () {
+      return cc.sys.localStorage.getItem("HigScore_JiaoTong")
+    },
+    UIPosChange: function () {
+      this.overScoreT.string = c.gameScore, console.log("lang", a.langugeType);
+      var e = null;
+      e = 1 == a.langugeType ? this.getContentByScore(c.gameScore, a.gameNameText) : this.getContentByScore2(c.gameScore, a.gameNameText), console.log("nihao", a.endHttpShowInfo), null != a.endHttpShowInfo && "" != a.endHttpShowInfo && (cc.log("gototo"), e = a.endHttpShowInfo), this.overInfoT.string = e;
+      var t = this.overInfoT.node.height;
+      if (this.overInfoT.node.height = Math.ceil(e.length * this.overInfoT.fontSize / this.overInfoT.node.width) * t, document.title = e, console.log("gameOver txtMoreText", a.txtMoreText), this.midGameText.string = a.txtMoreText, this.leftBtnText.string = a.txtAgainText, this.tempArr = this.gameFocus(), null != a.ranLinkUrl()) {
+        var n = a.ranLinkUrl(),
+          o = a.ranLinkData.gameList[n].gameName;
+        this.rigthBtnGameName = o, this.rightBtnGameUrl = a.ranLinkData.gameList[n].gameUrl
+      }
+      null != this.rigthBtnGameName && "" != this.rigthBtnGameName ? this.rightBtnText.string = this.rigthBtnGameName : this.rightBtnText.string = this.tempArr[0]
+    },
+    gameFocus: function () {
+      var e = [],
+        t = null,
+        n = null;
+      return Math.random() <= .5 ? (t = a.gameEndName1, n = a.gameEndUrl1) : (t = a.gameEndName2, n = a.gameEndUrl2), e.push(t), e.push(n), e
+    },
+    addClickBtns: function () {
+      var e = this;
+      e.moreBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
+      }), e.moreBtn.node.on(cc.Node.EventType.TOUCH_END, function (e) {
+        console.log("MoreGame"), window.location.href = a.moreGameUrl
+      }), e.leftBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
+      }), e.leftBtn.node.on(cc.Node.EventType.TOUCH_END, function (e) {
+        c.GAME_OVER_BOOL = !0, c.gameScore = 0, o.loadingScene("MainGameScene")
+      }), e.rightBtn.node.on(cc.Node.EventType.TOUCH_START, function (e) {
+      }), e.rightBtn.node.on(cc.Node.EventType.TOUCH_END, function (t) {
+        var n = null;
+        n = null != e.rightBtnGameUrl && "" != e.rightBtnGameUrl ? e.rightBtnGameUrl : e.tempArr[1], window.location.href = n
+      })
+    },
+    getContentByScore: function (e, t) {
+      var n = "Tôi thật quá lợi hại, trong " + t + " mà lại được 1 điểm, toàn cầu chỉ có 1 người được 1 điểm!",
+        o = parseInt(.3 * this.standardScore),
+        c = parseInt(1.5 * this.standardScore),
+        a = parseInt(2.5 * this.standardScore),
+        i = parseInt(4 * this.standardScore);
+      if (e > 0 && e <= o) n = "Tôi trong " + t + " được " + e + " điểm, thật quá tuyệt, luyện tập thêm sẽ đạt đến cảnh giới thượng thừa!";
+      else if (e > o && e <= this.standardScore) n = "Tôi trong " + t + " được " + e + " điểm, thật quá tuyệt, luyện tập thêm sẽ đạt đến cảnh giới thượng thừa!";
+      else if (e > this.standardScore && e <= c) {
+        n = "Tôi trong " + t + " được " + e + " điểm, đánh bại " + (Math.floor(12 * (e - this.standardScore) / (c - this.standardScore)) + 80) + "% người chơi toàn cầu, tiến vào cảnh giới thuận buồm xuôi gió!"
+      } else if (e > c && e <= a) {
+        n = "Tôi trong " + t + " được " + e + " điểm, đánh bại " + (Math.floor(7 * (e - c) / (a - c)) + 92) + "% người chơi toàn cầu, tiến vào cảnh giới vận dụng tự nhiên!"
+      } else if (e > a && e <= i) n = "Tôi trong " + t + " được " + e + " điểm, đánh bại 99% người chơi toàn cầu, đạt đến cảnh giới hành vân lưu thủy!";
+      else if (e > i && e < this.game_max_score) {
+        n = "Tôi trong " + t + " được " + e + " điểm, nghe nói toàn cầu chỉ có " + (20 - Math.ceil(17 * (e - i) / (this.game_max_score - i))) + " người đạt đến trình độ này, độc cô cầu bại!"
+      } else e >= this.game_max_score && (n = "Tôi trong " + t + " được " + e + " điểm, vượt qua cả độc cô cầu bại, tâm linh tương thông!");
+      return n
+    },
+    strlen: function (e) {
+      for (var t = 0, n = 0; n < e.length; n++) {
+        var o = e.charCodeAt(n);
+        o >= 1 && o <= 126 || 65376 <= o && o <= 65439 ? t++ : t += 2
+      }
+      return t
+    },
+    getContentByScore2: function (e, t) {
+      var n = "I'm awesome\uff0cin" + t + "get 0 score\uff0conly one person in the world has a 0\uff01",
+        o = parseInt(.3 * this.standardScore),
+        c = parseInt(1.5 * this.standardScore),
+        a = parseInt(2.5 * this.standardScore),
+        i = parseInt(4 * this.standardScore);
+      if (e >= this.game_max_score) n = "I got " + e + " points in the game, defeating all players worldwide, waiting for you to fight!";
+      else if (e > 0 && e <= o) n = "I got " + e + " points in the game, really great\uff01";
+      else if (e > o && e <= this.standardScore) n = "I got " + e + " points in the game, really great\uff01";
+      else if (e > this.standardScore && e <= c) {
+        n = "I got in the game in " + e + " points, beating out " + (Math.floor(12 * (e - this.standardScore) / (c - this.standardScore)) + 80) + "% of global players\uff01"
+      } else if (e > c && e <= a) {
+        n = "I got in the game in " + e + " points, beating out " + (Math.floor(7 * (e - c) / (a - c)) + 92) + "% of global players\uff01"
+      } else if (e > a && e <= i) n = "I got in the game in " + e + " points, beating out 99% of global players\uff01";
+      else if (e > i && e < this.game_max_score) {
+        n = "I got " + e + " points in the game, it said to be the world's only " + (20 - Math.ceil(17 * (e - i) / (this.game_max_score - i))) + " people to reach this level! Have you?"
+      }
+      return n
+    },
+    start: function () {
+    }
+  }), cc._RF.pop()
+}, {
+  GameConfig: "GameConfig",
+  GameUiTools: "GameUiTools",
+  MainManage: "MainManage"
+}],
   linkHttpIconJs: [function (e, t, n) {
     "use strict";
     cc._RF.push(t, "95474fr0oNDP7SAidILF03q", "linkHttpIconJs");
@@ -3791,14 +3725,14 @@ window.__require = function e(t, n, o) {
     GameConfig: "GameConfig",
     MainManage: "MainManage"
   }],
-  peaCannonAI: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "f8545atw1JIMK0v/hcNWns0", "peaCannonAI");
-    var o = this && this.__extends || function () {
+    peaCannonAI: [function (e, t, n) {
+      "use strict";
+      cc._RF.push(t, "f8545atw1JIMK0v/hcNWns0", "peaCannonAI");
+      var o = this && this.__extends || function () {
         var e = function (t, n) {
           return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
+            __proto__: []
+          }
             instanceof Array && function (e, t) {
               e.__proto__ = t
             } || function (e, t) {
@@ -3813,362 +3747,330 @@ window.__require = function e(t, n, o) {
           e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
         }
       }(),
-      c = this && this.__decorate || function (e, t, n, o) {
-        var c, a = arguments.length,
-          i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
-        if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
-        else
-          for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
-        return a > 3 && i && Object.defineProperty(t, n, i), i
-      };
-    Object.defineProperty(n, "__esModule", {
-      value: !0
-    });
-    var a = e("../Common/Utils"),
-      i = e("../common/PlayerInfo"),
-      r = e("../Common/PoolManager"),
-      s = e("./GameFunction"),
-      l = e("./MainGameUi"),
-      u = e("./AudioManager"),
-      d = cc._decorator,
-      p = d.ccclass,
-      f = d.property,
-      h = function (e) {
-        function t() {
-          var t = null !== e && e.apply(this, arguments) || this;
-          return t.shellNode = null, t.player = null, t.shootInter = 2, t.shootTime = 0, t.cannonNumber = 0, t.peaSuiPre = null, t
-        }
-
-        return o(t, e), t.prototype.start = function () {
-          this.shellNode = cc.find("Canvas/shellNode"), this.player = cc.find("Canvas/playerNode/player"), this.node.scale = .7
-        }, t.prototype.update = function (e) {
-          if (i.default.GameUpdateCtrl) {
-            var t = this.player.position.sub(this.node.position).normalize(),
-              n = a.default.vectorsToDegress(t);
-            this.node.angle = -n, this.shootTime += e, this.shootTime >= this.shootInter && (this.shootShell(), this.shootTime = 0)
+        c = this && this.__decorate || function (e, t, n, o) {
+          var c, a = arguments.length,
+            i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
+          if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
+          else
+            for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
+          return a > 3 && i && Object.defineProperty(t, n, i), i
+        };
+      Object.defineProperty(n, "__esModule", {
+        value: !0
+      });
+      var a = e("../Common/Utils"),
+        i = e("../common/PlayerInfo"),
+        r = e("../Common/PoolManager"),
+        s = e("./GameFunction"),
+        l = e("./MainGameUi"),
+        u = e("./AudioManager"),
+        d = cc._decorator,
+        p = d.ccclass,
+        f = d.property,
+        h = function (e) {
+          function t() {
+            var t = null !== e && e.apply(this, arguments) || this;
+            return t.shellNode = null, t.player = null, t.shootInter = 2, t.shootTime = 0, t.cannonNumber = 0, t.peaSuiPre = null, t
           }
-        }, t.prototype.shootShell = function () {
-          this.node.runAction(cc.sequence(cc.scaleTo(.1, .7, .5), cc.scaleTo(.1, .7, .7)));
-          var e = r.default.Spawn("shell", this.shellNode);
-          e.getComponent("shellData").shellLife = 2, e.position = this.node.position, e.opacity = 255, e.scale = .1, e.active = !0, u.default.Instance.Play(0, !1, 1);
-          var t = this.player.position.sub(e.position).normalize();
-          e.runAction(cc.scaleTo(.2, .5)), e.runAction(cc.sequence(cc.moveBy(10, 2e3 * t.x, 2e3 * t.y), cc.callFunc(function () {
-            r.default.Despawn("shell", e)
-          }))), e.runAction(cc.repeatForever(cc.rotateBy(3, 1080)))
-        }, t.prototype.onCollisionEnter = function (e, t) {
-          "shell" == e.node.group && 2 == e.node.getComponent("shellData").shellLife ? e.node.getComponent("shellData").shellLife -= 1 : "shell" == e.node.group && 1 == e.node.getComponent("shellData").shellLife && (u.default.Instance.Play(2, !1, 1), t.node.active = !1, s.default.Instance.cannonNodeArr[this.cannonNumber] = 0, this.createCannonSui(t.node), e.node.stopAllActions(), i.default.score += 10, l.default.Instance.SetScoreTween(i.default.score), r.default.Despawn("shell", e.node), r.default.Despawn("peaCannon", t.node))
-        }, t.prototype.onCollisionStay = function (e, t) {
-        }, t.prototype.onCollisionExit = function (e, t) {
-        }, t.prototype.createCannonSui = function (e) {
-          var t = cc.instantiate(this.peaSuiPre);
-          t.parent = cc.find("Canvas/targetBoomNode"), t.position = e.position, t.scale = e.scale, t.angle = e.angle;
-          for (var n = 0; n < t.children.length; n++) t.children[n].runAction(cc.sequence(cc.spawn(cc.moveBy(.25, a.default.RandomInteger(-70, 70), a.default.RandomInteger(-70, 70)), cc.rotateBy(.5, a.default.RandomInteger(-360, 360))), cc.fadeOut(1), cc.callFunc(function () {
-            t.destroy()
-          })))
-        }, c([f(cc.Prefab)], t.prototype, "peaSuiPre", void 0), t = c([p], t)
-      }(cc.Component);
-    n.default = h, cc._RF.pop()
-  }, {
-    "../Common/PoolManager": "PoolManager",
-    "../Common/Utils": "Utils",
-    "../common/PlayerInfo": "PlayerInfo",
-    "./AudioManager": "AudioManager",
-    "./GameFunction": "GameFunction",
-    "./MainGameUi": "MainGameUi"
-  }],
-  resArr: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "8a68e/WQz1Feo++msjg6z8R", "resArr"), cc.Class({
-      extends: cc.Component,
-      properties: {
-        SpriteFrameArr: [cc.SpriteFrame],
-        PrefabArr: [cc.Prefab],
-        audiosArr: {
-          type: cc.AudioClip,
-          default: []
-        }
-      },
-      onLoad: function () {
-        void 0 != ToolsJs && (ToolsJs.PrefabArrJs = this, ToolsJs.SpriteFrameJs = this, ToolsJs.AudioArrJs = this), this.addPrefabs(), this.addSpriteFrame(), this.audioClipDic = {};
-        for (var e = 0; e < this.audiosArr.length; e++) {
-          var t = this.audiosArr[e];
-          this.audioClipDic[t.name] = t
-        }
-      },
-      playAudio: function (e) {
-        var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : .3,
-          n = arguments.length > 2 && void 0 !== arguments[2] && arguments[2];
-        return null != this.audioClipDic[e] ? cc.audioEngine.play(this.audioClipDic[e], n, t) : (console.log("\u6ca1\u6709\u627e\u5230\u97f3\u9891\uff1a" + e), null)
-      },
-      getAudioClip: function (e) {
-        return null != this.audioClipDic[e] ? this.audioClipDic[e] : (console.log("\u6ca1\u6709\u627e\u5230\u97f3\u9891\uff1a" + e), null)
-      },
-      addSpriteFrame: function () {
-        this.spriteArr = {};
-        for (var e = 0; e < this.SpriteFrameArr.length; e++) {
-          var t = this.SpriteFrameArr[e];
-          null != t && (this.spriteArr[t.name] = t)
-        }
-      },
-      getSpriteFrame: function (e) {
-        return null != this.spriteArr[e] ? this.spriteArr[e] : (console.log("\u6ca1\u6709\u6dfb\u52a0\u56fe\u7247\uff1a" + e), null)
-      },
-      addPrefabs: function () {
-        this.prefabsArr = {};
-        for (var e = 0; e < this.PrefabArr.length; e++) {
-          var t = this.PrefabArr[e];
-          this.prefabsArr[t.name] = t
-        }
-      },
-      getPrefabs: function (e) {
-        return null != this.prefabsArr[e] ? this.prefabsArr[e] : (console.log("\u6ca1\u6709\u9884\u5236\u4f53\uff1a" + e), null)
-      }
-    }), cc._RF.pop()
-  }, {}],
-  startGameJs: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "280c3rsZJJKnZ9RqbALVwtK", "startGameJs");
-    var o = e("GameUiTools"),
-      c = (e("HttpManagerJs"), e("MainManage")),
-      a = (e("LoadSceneJs"), e("GameConfig"));
-    cc.Class({
-      extends: cc.Component,
-      properties: {
-        showInfoT: cc.Label,
-        startT: cc.Label
-      },
-      onLoad: function () {
-        a.publicGameBool && c.init(), this.showInfoT.string = c.gameInfoText, this.startT.string = c.txtStartText, this.node.on("touchend", function (e) {
-          this.node.x = -2e3
-        }, this)
-      },
-      addTouchEvents: function () {
-        var e = {
-          event: cc.EventListener.TOUCH_ONE_BY_ONE,
-          onTouchBegan: function (e, t) {
-            return o.loadingScene("MainGameScene"), !0
+
+          return o(t, e), t.prototype.start = function () {
+            this.shellNode = cc.find("Canvas/shellNode"), this.player = cc.find("Canvas/playerNode/player"), this.node.scale = .7
+          }, t.prototype.update = function (e) {
+            if (i.default.GameUpdateCtrl) {
+              var t = this.player.position.sub(this.node.position).normalize(),
+                n = a.default.vectorsToDegress(t);
+              this.node.angle = -n, this.shootTime += e, this.shootTime >= this.shootInter && (this.shootShell(), this.shootTime = 0)
+            }
+          }, t.prototype.shootShell = function () {
+            this.node.runAction(cc.sequence(cc.scaleTo(.1, .7, .5), cc.scaleTo(.1, .7, .7)));
+            var e = r.default.Spawn("shell", this.shellNode);
+            e.getComponent("shellData").shellLife = 2, e.position = this.node.position, e.opacity = 255, e.scale = .1, e.active = !0, u.default.Instance.Play(0, !1, 1);
+            var t = this.player.position.sub(e.position).normalize();
+            e.runAction(cc.scaleTo(.2, .5)), e.runAction(cc.sequence(cc.moveBy(10, 2e3 * t.x, 2e3 * t.y), cc.callFunc(function () {
+              r.default.Despawn("shell", e)
+            }))), e.runAction(cc.repeatForever(cc.rotateBy(3, 1080)))
+          }, t.prototype.onCollisionEnter = function (e, t) {
+            "shell" == e.node.group && 2 == e.node.getComponent("shellData").shellLife ? e.node.getComponent("shellData").shellLife -= 1 : "shell" == e.node.group && 1 == e.node.getComponent("shellData").shellLife && (u.default.Instance.Play(2, !1, 1), t.node.active = !1, s.default.Instance.cannonNodeArr[this.cannonNumber] = 0, this.createCannonSui(t.node), e.node.stopAllActions(), i.default.score += 10, l.default.Instance.SetScoreTween(i.default.score), r.default.Despawn("shell", e.node), r.default.Despawn("peaCannon", t.node))
+          }, t.prototype.onCollisionStay = function (e, t) {
+          }, t.prototype.onCollisionExit = function (e, t) {
+          }, t.prototype.createCannonSui = function (e) {
+            var t = cc.instantiate(this.peaSuiPre);
+            t.parent = cc.find("Canvas/targetBoomNode"), t.position = e.position, t.scale = e.scale, t.angle = e.angle;
+            for (var n = 0; n < t.children.length; n++) t.children[n].runAction(cc.sequence(cc.spawn(cc.moveBy(.25, a.default.RandomInteger(-70, 70), a.default.RandomInteger(-70, 70)), cc.rotateBy(.5, a.default.RandomInteger(-360, 360))), cc.fadeOut(1), cc.callFunc(function () {
+              t.destroy()
+            })))
+          }, c([f(cc.Prefab)], t.prototype, "peaSuiPre", void 0), t = c([p], t)
+        }(cc.Component);
+      n.default = h, cc._RF.pop()
+    }, {
+      "../Common/PoolManager": "PoolManager",
+      "../Common/Utils": "Utils",
+      "../common/PlayerInfo": "PlayerInfo",
+      "./AudioManager": "AudioManager",
+      "./GameFunction": "GameFunction",
+      "./MainGameUi": "MainGameUi"
+    }],
+      resArr: [function (e, t, n) {
+        "use strict";
+        cc._RF.push(t, "8a68e/WQz1Feo++msjg6z8R", "resArr"), cc.Class({
+          extends: cc.Component,
+          properties: {
+            SpriteFrameArr: [cc.SpriteFrame],
+            PrefabArr: [cc.Prefab],
+            audiosArr: {
+              type: cc.AudioClip,
+              default: []
+            }
           },
-          onTouchMoved: function (e, t) {
+          onLoad: function () {
+            void 0 != ToolsJs && (ToolsJs.PrefabArrJs = this, ToolsJs.SpriteFrameJs = this, ToolsJs.AudioArrJs = this), this.addPrefabs(), this.addSpriteFrame(), this.audioClipDic = {};
+            for (var e = 0; e < this.audiosArr.length; e++) {
+              var t = this.audiosArr[e];
+              this.audioClipDic[t.name] = t
+            }
           },
-          onTouchEnded: function (e, t) {
-          }
-        };
-        cc.eventManager.addListener(e, this.node)
-      },
-      update: function (e) {
-      }
-    }), cc._RF.pop()
-  }, {
-    GameConfig: "GameConfig",
-    GameUiTools: "GameUiTools",
-    HttpManagerJs: "HttpManagerJs",
-    LoadSceneJs: "LoadSceneJs",
-    MainManage: "MainManage"
-  }],
-  startPanel: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "d42d3uJR2RCPLKQIl417E7S", "startPanel");
-    var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
+          playAudio: function (e) {
+            var o = e("GameUiTools"),
+              c = (e("HttpManagerJs"), e("MainManage")),
+              a = (e("LoadSceneJs"), e("GameConfig"));
+            cc.Class({
+              extends: cc.Component,
+              properties: {
+                showInfoT: cc.Label,
+                startT: cc.Label
+              },
+              onLoad: function () {
+                a.publicGameBool && c.init(), this.showInfoT.string = c.gameInfoText, this.startT.string = c.txtStartText, this.node.on("touchend", function (e) {
+                  this.node.x = -2e3
+                }, this)
+              },
+              addTouchEvents: function () {
+                var e = {
+                  event: cc.EventListener.TOUCH_ONE_BY_ONE,
+                  onTouchBegan: function (e, t) {
+                    return o.loadingScene("MainGameScene"), !0
+                  },
+                  onTouchMoved: function (e, t) {
+                  },
+                  onTouchEnded: function (e, t) {
+                  }
+                };
+                cc.eventManager.addListener(e, this.node)
+              },
+              update: function (e) {
+              }
+            }), cc._RF.pop()
+          }, {
+          GameConfig: "GameConfig",
+          GameUiTools: "GameUiTools",
+          HttpManagerJs: "HttpManagerJs",
+          LoadSceneJs: "LoadSceneJs",
+          MainManage: "MainManage"
+        }],
+        startPanel: [function (e, t, n) {
+          "use strict";
+          cc._RF.push(t, "d42d3uJR2RCPLKQIl417E7S", "startPanel");
+          var o = this && this.__extends || function () {
+            var e = function (t, n) {
+              return (e = Object.setPrototypeOf || {
+                __proto__: []
+              }
+                instanceof Array && function (e, t) {
+                  e.__proto__ = t
+                } || function (e, t) {
+                  for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+                })(t, n)
+            };
+            return function (t, n) {
+              function o() {
+                this.constructor = t
+              }
+
+              e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
             }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
+          }(),
+            c = this && this.__decorate || function (e, t, n, o) {
+              var c, a = arguments.length,
+                i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
+              if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
+              else
+                for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
+              return a > 3 && i && Object.defineProperty(t, n, i), i
+            };
+          Object.defineProperty(n, "__esModule", {
+            value: !0
+          });
+          var a = e("../Common/Utils"),
+            i = e("../commonJs/GameConfig"),
+            r = cc._decorator,
+            s = r.ccclass,
+            l = r.property,
+            u = function (e) {
+              function t() {
+                var t = null !== e && e.apply(this, arguments) || this;
+                return t.startPanel = null, t.titleSpr = null, t.startBtn = null, t.title = [], t
+              }
 
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
-        }
-      }(),
-      c = this && this.__decorate || function (e, t, n, o) {
-        var c, a = arguments.length,
-          i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
-        if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
-        else
-          for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
-        return a > 3 && i && Object.defineProperty(t, n, i), i
-      };
-    Object.defineProperty(n, "__esModule", {
-      value: !0
-    });
-    var a = e("../Common/Utils"),
-      i = e("../commonJs/GameConfig"),
-      r = cc._decorator,
-      s = r.ccclass,
-      l = r.property,
-      u = function (e) {
-        function t() {
-          var t = null !== e && e.apply(this, arguments) || this;
-          return t.startPanel = null, t.titleSpr = null, t.startBtn = null, t.title = [], t
-        }
+              return o(t, e), t.prototype.onLoad = function () {
+                this.startPanel.setContentSize(cc.winSize.width, cc.winSize.height), this.startPanel.children[0].setContentSize(cc.winSize.width, cc.winSize.height), this.startPanel.children[0].children[0].setContentSize(cc.winSize.width, cc.winSize.height)
+              }, t.prototype.start = function () {
+                this.startPanel.children[1].scaleX = 0, this.startPanel.children[1].runAction(cc.scaleTo(.5, .9).easing(cc.easeBackOut())), this.startPanel.children[2].runAction(cc.repeatForever(cc.sequence(cc.scaleTo(.5, 1.1), cc.scaleTo(.5, 1), cc.delayTime(.5)))), this.initTitle(), cc.director.preloadScene("MainGameScene")
+              }, t.prototype.StartGame = function () {
+                i.publicGameBool || adBreak({
+                  type: "next",
+                  name: "restart-game"
+                }), this.startBtn.stopAllActions(), this.startBtn.runAction(cc.sequence(cc.scaleTo(.1, .8), cc.scaleTo(.1, 1), cc.callFunc(function () {
+                  cc.director.loadScene("MainGameScene")
+                })))
+              }, t.prototype.initTitle = function () {
+                var e = a.default.returnCurrentLanType();
+                1 != e && (this.titleSpr.getComponent(cc.Sprite).spriteFrame = this.title[e - 1]), this.initTitleAni()
+              }, t.prototype.initTitleAni = function () {
+                for (var e = 0; e < this.titleSpr.children.length; e++) {
+                  var t = this.titleSpr.children[e],
+                    n = Math.random() >= .5 ? 8 : -8,
+                    o = .8 + .3 * Math.random();
+                  t.runAction(cc.sequence(cc.skewBy(o, n, 0), cc.skewBy(o, -n, 0), cc.skewBy(o, -n, 0), cc.skewBy(o, n, 0)).repeatForever())
+                }
+              }, c([l(cc.Node)], t.prototype, "startPanel", void 0), c([l(cc.Node)], t.prototype, "titleSpr", void 0), c([l(cc.Node)], t.prototype, "startBtn", void 0), c([l(cc.SpriteFrame)], t.prototype, "title", void 0), t = c([s], t)
+            }(cc.Component);
+          n.default = u, cc._RF.pop()
+        }, {
+          "../Common/Utils": "Utils",
+          "../commonJs/GameConfig": "GameConfig"
+        }],
+          "use_v2.1.x_cc.Action": [function (e, t, n) {
+            "use strict";
+            cc._RF.push(t, "ce2acozQx1Dq7kOhKg5RkBi", "use_v2.1.x_cc.Action"), cc.macro.ROTATE_ACTION_CCW = !0, cc._RF.pop()
+          }, {}],
+            wineObsmove: [function (e, t, n) {
+              "use strict";
+              cc._RF.push(t, "589ae7WabhNKbjjj1cMrAIM", "wineObsmove");
+              var o = this && this.__extends || function () {
+                var e = function (t, n) {
+                  return (e = Object.setPrototypeOf || {
+                    __proto__: []
+                  }
+                    instanceof Array && function (e, t) {
+                      e.__proto__ = t
+                    } || function (e, t) {
+                      for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+                    })(t, n)
+                };
+                return function (t, n) {
+                  function o() {
+                    this.constructor = t
+                  }
 
-        return o(t, e), t.prototype.onLoad = function () {
-          this.startPanel.setContentSize(cc.winSize.width, cc.winSize.height), this.startPanel.children[0].setContentSize(cc.winSize.width, cc.winSize.height), this.startPanel.children[0].children[0].setContentSize(cc.winSize.width, cc.winSize.height)
-        }, t.prototype.start = function () {
-          this.startPanel.children[1].scaleX = 0, this.startPanel.children[1].runAction(cc.scaleTo(.5, .9).easing(cc.easeBackOut())), this.startPanel.children[2].runAction(cc.repeatForever(cc.sequence(cc.scaleTo(.5, 1.1), cc.scaleTo(.5, 1), cc.delayTime(.5)))), this.initTitle(), cc.director.preloadScene("MainGameScene")
-        }, t.prototype.StartGame = function () {
-          i.publicGameBool || adBreak({
-            type: "next",
-            name: "restart-game"
-          }), this.startBtn.stopAllActions(), this.startBtn.runAction(cc.sequence(cc.scaleTo(.1, .8), cc.scaleTo(.1, 1), cc.callFunc(function () {
-            cc.director.loadScene("MainGameScene")
-          })))
-        }, t.prototype.initTitle = function () {
-          var e = a.default.returnCurrentLanType();
-          1 != e && (this.titleSpr.getComponent(cc.Sprite).spriteFrame = this.title[e - 1]), this.initTitleAni()
-        }, t.prototype.initTitleAni = function () {
-          for (var e = 0; e < this.titleSpr.children.length; e++) {
-            var t = this.titleSpr.children[e],
-              n = Math.random() >= .5 ? 8 : -8,
-              o = .8 + .3 * Math.random();
-            t.runAction(cc.sequence(cc.skewBy(o, n, 0), cc.skewBy(o, -n, 0), cc.skewBy(o, -n, 0), cc.skewBy(o, n, 0)).repeatForever())
-          }
-        }, c([l(cc.Node)], t.prototype, "startPanel", void 0), c([l(cc.Node)], t.prototype, "titleSpr", void 0), c([l(cc.Node)], t.prototype, "startBtn", void 0), c([l(cc.SpriteFrame)], t.prototype, "title", void 0), t = c([s], t)
-      }(cc.Component);
-    n.default = u, cc._RF.pop()
-  }, {
-    "../Common/Utils": "Utils",
-    "../commonJs/GameConfig": "GameConfig"
-  }],
-  "use_v2.1.x_cc.Action": [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "ce2acozQx1Dq7kOhKg5RkBi", "use_v2.1.x_cc.Action"), cc.macro.ROTATE_ACTION_CCW = !0, cc._RF.pop()
-  }, {}],
-  wineObsmove: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "589ae7WabhNKbjjj1cMrAIM", "wineObsmove");
-    var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
+                  e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+                }
+              }(),
+                c = this && this.__decorate || function (e, t, n, o) {
+                  var c, a = arguments.length,
+                    i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
+                  if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
+                  else
+                    for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
+                  return a > 3 && i && Object.defineProperty(t, n, i), i
+                };
+              Object.defineProperty(n, "__esModule", {
+                value: !0
+              });
+              var a = e("./GameFunction"),
+                i = cc._decorator,
+                r = i.ccclass,
+                s = (i.property, function (e) {
+                  function t() {
+                    var t = null !== e && e.apply(this, arguments) || this;
+                    return t.isMove = !1, t
+                  }
 
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
-        }
-      }(),
-      c = this && this.__decorate || function (e, t, n, o) {
-        var c, a = arguments.length,
-          i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
-        if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
-        else
-          for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
-        return a > 3 && i && Object.defineProperty(t, n, i), i
-      };
-    Object.defineProperty(n, "__esModule", {
-      value: !0
-    });
-    var a = e("./GameFunction"),
-      i = cc._decorator,
-      r = i.ccclass,
-      s = (i.property, function (e) {
-        function t() {
-          var t = null !== e && e.apply(this, arguments) || this;
-          return t.isMove = !1, t
-        }
+                  return o(t, e), t.prototype.onLoad = function () {
+                  }, t.prototype.update = function (e) {
+                    this.isMove && (this.node.x += a.default.Instance.lvdaiSpeed)
+                  }, t = c([r], t)
+                }(cc.Component));
+              n.default = s, cc._RF.pop()
+            }, {
+              "./GameFunction": "GameFunction"
+            }],
+              winerCollision: [function (e, t, n) {
+                "use strict";
+                cc._RF.push(t, "3ea89nQCdpP9II/GHC3tXOf", "winerCollision");
+                var o = this && this.__extends || function () {
+                  var e = function (t, n) {
+                    return (e = Object.setPrototypeOf || {
+                      __proto__: []
+                    }
+                      instanceof Array && function (e, t) {
+                        e.__proto__ = t
+                      } || function (e, t) {
+                        for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
+                      })(t, n)
+                  };
+                  return function (t, n) {
+                    function o() {
+                      this.constructor = t
+                    }
 
-        return o(t, e), t.prototype.onLoad = function () {
-        }, t.prototype.update = function (e) {
-          this.isMove && (this.node.x += a.default.Instance.lvdaiSpeed)
-        }, t = c([r], t)
-      }(cc.Component));
-    n.default = s, cc._RF.pop()
-  }, {
-    "./GameFunction": "GameFunction"
-  }],
-  winerCollision: [function (e, t, n) {
-    "use strict";
-    cc._RF.push(t, "3ea89nQCdpP9II/GHC3tXOf", "winerCollision");
-    var o = this && this.__extends || function () {
-        var e = function (t, n) {
-          return (e = Object.setPrototypeOf || {
-              __proto__: []
-            }
-            instanceof Array && function (e, t) {
-              e.__proto__ = t
-            } || function (e, t) {
-              for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n])
-            })(t, n)
-        };
-        return function (t, n) {
-          function o() {
-            this.constructor = t
-          }
+                    e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
+                  }
+                }(),
+                  c = this && this.__decorate || function (e, t, n, o) {
+                    var c, a = arguments.length,
+                      i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
+                    if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
+                    else
+                      for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
+                    return a > 3 && i && Object.defineProperty(t, n, i), i
+                  };
+                Object.defineProperty(n, "__esModule", {
+                  value: !0
+                });
+                var a = e("../common/PlayerInfo"),
+                  i = e("../Common/PoolManager"),
+                  r = e("../Common/Utils"),
+                  s = e("./AudioManager"),
+                  l = e("./GameFunction"),
+                  u = e("./GameManager"),
+                  d = cc._decorator,
+                  p = d.ccclass,
+                  f = d.property,
+                  h = function (e) {
+                    function t() {
+                      var t = null !== e && e.apply(this, arguments) || this;
+                      return t.wineType = 0, t.isMove = !1, t.wineColorStr1 = [], t.wineColorStr2 = [], t
+                    }
 
-          e(t, n), t.prototype = null === n ? Object.create(n) : (o.prototype = n.prototype, new o)
-        }
-      }(),
-      c = this && this.__decorate || function (e, t, n, o) {
-        var c, a = arguments.length,
-          i = a < 3 ? t : null === o ? o = Object.getOwnPropertyDescriptor(t, n) : o;
-        if ("object" == typeof Reflect && "function" == typeof Reflect.decorate) i = Reflect.decorate(e, t, n, o);
-        else
-          for (var r = e.length - 1; r >= 0; r--) (c = e[r]) && (i = (a < 3 ? c(i) : a > 3 ? c(t, n, i) : c(t, n)) || i);
-        return a > 3 && i && Object.defineProperty(t, n, i), i
-      };
-    Object.defineProperty(n, "__esModule", {
-      value: !0
-    });
-    var a = e("../common/PlayerInfo"),
-      i = e("../Common/PoolManager"),
-      r = e("../Common/Utils"),
-      s = e("./AudioManager"),
-      l = e("./GameFunction"),
-      u = e("./GameManager"),
-      d = cc._decorator,
-      p = d.ccclass,
-      f = d.property,
-      h = function (e) {
-        function t() {
-          var t = null !== e && e.apply(this, arguments) || this;
-          return t.wineType = 0, t.isMove = !1, t.wineColorStr1 = [], t.wineColorStr2 = [], t
-        }
-
-        return o(t, e), t.prototype.onLoad = function () {
-          this.wineColorStr1.push("eba51f", "eba51f", "eba51f", "eba51f", "87c5ff", "87c5ff", "87c5ff", "87c5ff", "87c5ff", "87c5ff"), this.wineColorStr2.push("fed74a", "fed74a", "fed74a", "fed74a", "b7fbff", "b7fbff", "b7fbff", "b7fbff", "b7fbff", "b7fbff")
-        }, t.prototype.start = function () {
-        }, t.prototype.update = function (e) {
-          this.isMove && (this.node.x += l.default.Instance.lvdaiSpeed), this.node.x >= 500 && i.default.Despawn(this.node.name, this.node)
-        }, t.prototype.onCollisionEnter = function (e, t) {
-          "wine" == e.node.group && (this.createWineSa(t.node), this.createWineSuiPian(t.node), t.node.active = !1, a.default.playerTouch && (u.default.Instance.ToEnd(), a.default.playerTouch = !1))
-        }, t.prototype.createWineSuiPian = function (e) {
-          s.default.Instance.Play(0, !1, 1);
-          var t = i.default.Spawn(e.name.concat("SP"), cc.find("Canvas/targetWineNodeQ"));
-          t.position = e.position, t.angle = e.angle, t.scale = e.scale;
-          for (var n = 0; n < t.children.length; n++) t.children[n].runAction(cc.spawn(cc.sequence(cc.jumpBy(1, r.default.RandomInteger(-500, 50), r.default.RandomInteger(-2e3, -1600), 500, 1), cc.fadeOut(.5)), cc.rotateBy(1, r.default.RandomInteger(-860, 860))))
-        }, t.prototype.createWineSa = function (e) {
-          for (var t = r.default.RandomInteger(35, 40), n = 0; n < t / 2; n++) {
-            (o = i.default.Spawn("juicePre", cc.find("Canvas/upEffectParent"))).color = (new cc.Color).fromHEX(this.wineColorStr1[this.wineType - 1]), o.position = e.position, o.scale = .5, o.runAction(cc.spawn(cc.jumpBy(1, r.default.RandomInteger(-300, 50), r.default.RandomInteger(-400, -200), r.default.RandomInteger(100, 150), 1), cc.fadeOut(1)))
-          }
-          for (n = 0; n < t / 2; n++) {
-            var o;
-            (o = i.default.Spawn("juicePre", cc.find("Canvas/upEffectParent"))).color = (new cc.Color).fromHEX(this.wineColorStr2[this.wineType - 1]), o.position = e.position, o.scale = .5, o.runAction(cc.spawn(cc.jumpBy(1, r.default.RandomInteger(-300, 50), r.default.RandomInteger(-400, -200), r.default.RandomInteger(100, 150), 1), cc.fadeOut(1)))
-          }
-        }, c([f()], t.prototype, "wineType", void 0), t = c([p], t)
-      }(cc.Component);
-    n.default = h, cc._RF.pop()
-  }, {
-    "../Common/PoolManager": "PoolManager",
-    "../Common/Utils": "Utils",
-    "../common/PlayerInfo": "PlayerInfo",
-    "./AudioManager": "AudioManager",
-    "./GameFunction": "GameFunction",
-    "./GameManager": "GameManager"
-  }]
-}, {}, ["HttpManagerJs", "LanguageSetJs", "LoadSceneJs", "AniTools", "MainGameJS", "ToolsJs", "resArr", "MainManage", "AddScore", "AdjusWithHeight", "AudioManager", "AutoDestroy", "DataManager", "EffectCenter", "FailedUi", "GameFunction", "GameManager", "InputController", "KnifeCollision", "MainGameUi", "NewAttribute", "PhysicsParticle", "Rocker", "RotateAround", "Stack", "WallUpdate", "fruitData", "peaCannonAI", "startPanel", "wineObsmove", "winerCollision", "GameConfig", "GameUiTools", "DynamicLoad", "EffectSprite", "PlayerInfo", "PoolManager", "RandomFly", "RenderWater", "Shake", "SpriteManager", "Toast", "Utils", "bfPrefabJs", "gameOverJs", "linkHttpIconJs", "startGameJs", "use_v2.1.x_cc.Action"]);
+                    return o(t, e), t.prototype.onLoad = function () {
+                      this.wineColorStr1.push("eba51f", "eba51f", "eba51f", "eba51f", "87c5ff", "87c5ff", "87c5ff", "87c5ff", "87c5ff", "87c5ff"), this.wineColorStr2.push("fed74a", "fed74a", "fed74a", "fed74a", "b7fbff", "b7fbff", "b7fbff", "b7fbff", "b7fbff", "b7fbff")
+                    }, t.prototype.start = function () {
+                    }, t.prototype.update = function (e) {
+                      this.isMove && (this.node.x += l.default.Instance.lvdaiSpeed), this.node.x >= 500 && i.default.Despawn(this.node.name, this.node)
+                    }, t.prototype.onCollisionEnter = function (e, t) {
+                      "wine" == e.node.group && (this.createWineSa(t.node), this.createWineSuiPian(t.node), t.node.active = !1, a.default.playerTouch && (u.default.Instance.ToEnd(), a.default.playerTouch = !1))
+                    }, t.prototype.createWineSuiPian = function (e) {
+                      s.default.Instance.Play(0, !1, 1);
+                      var t = i.default.Spawn(e.name.concat("SP"), cc.find("Canvas/targetWineNodeQ"));
+                      t.position = e.position, t.angle = e.angle, t.scale = e.scale;
+                      for (var n = 0; n < t.children.length; n++) t.children[n].runAction(cc.spawn(cc.sequence(cc.jumpBy(1, r.default.RandomInteger(-500, 50), r.default.RandomInteger(-2e3, -1600), 500, 1), cc.fadeOut(.5)), cc.rotateBy(1, r.default.RandomInteger(-860, 860))))
+                    }, t.prototype.createWineSa = function (e) {
+                      for (var t = r.default.RandomInteger(35, 40), n = 0; n < t / 2; n++) {
+                        (o = i.default.Spawn("juicePre", cc.find("Canvas/upEffectParent"))).color = (new cc.Color).fromHEX(this.wineColorStr1[this.wineType - 1]), o.position = e.position, o.scale = .5, o.runAction(cc.spawn(cc.jumpBy(1, r.default.RandomInteger(-300, 50), r.default.RandomInteger(-400, -200), r.default.RandomInteger(100, 150), 1), cc.fadeOut(1)))
+                      }
+                      for (n = 0; n < t / 2; n++) {
+                        var o;
+                        (o = i.default.Spawn("juicePre", cc.find("Canvas/upEffectParent"))).color = (new cc.Color).fromHEX(this.wineColorStr2[this.wineType - 1]), o.position = e.position, o.scale = .5, o.runAction(cc.spawn(cc.jumpBy(1, r.default.RandomInteger(-300, 50), r.default.RandomInteger(-400, -200), r.default.RandomInteger(100, 150), 1), cc.fadeOut(1)))
+                      }
+                    }, c([f()], t.prototype, "wineType", void 0), t = c([p], t)
+                  }(cc.Component);
+                n.default = h, cc._RF.pop()
+              }, {
+                "../Common/PoolManager": "PoolManager",
+                "../Common/Utils": "Utils",
+                "../common/PlayerInfo": "PlayerInfo",
+                "./AudioManager": "AudioManager",
+                "./GameFunction": "GameFunction",
+                "./GameManager": "GameManager"
+              }]
+}, { }, ["HttpManagerJs", "LanguageSetJs", "LoadSceneJs", "AniTools", "MainGameJS", "ToolsJs", "resArr", "MainManage", "AddScore", "AdjusWithHeight", "AudioManager", "AutoDestroy", "DataManager", "EffectCenter", "FailedUi", "GameFunction", "GameManager", "InputController", "KnifeCollision", "MainGameUi", "NewAttribute", "PhysicsParticle", "Rocker", "RotateAround", "Stack", "WallUpdate", "fruitData", "peaCannonAI", "startPanel", "wineObsmove", "winerCollision", "GameConfig", "GameUiTools", "DynamicLoad", "EffectSprite", "PlayerInfo", "PoolManager", "RandomFly", "RenderWater", "Shake", "SpriteManager", "Toast", "Utils", "bfPrefabJs", "gameOverJs", "linkHttpIconJs", "startGameJs", "use_v2.1.x_cc.Action"]);
